@@ -1,0 +1,5 @@
+player1 player1-choice player2 player2-choice
+Moshe   rock           Ayelet  scissors
+David   scissors       Noam    paper
+David   rock           Moshe   paper
+Moshe   rock           Noam    paper
