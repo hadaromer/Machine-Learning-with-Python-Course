@@ -1,0 +1,947 @@
+title,author,price,pages,avg_reviews,n_reviews,dimensions,weight,language
+Becoming a Data Head: How to Think Speak and Understand Data Science Statistics and Machine Learning,"[Alex J. Gutman,Jordan Goldmeier]",24.49,272,4.6,184,6 x 0.62 x 9 inches,12.5 ounces,English
+Ace the Data Science Interview: 201 Real Interview Questions Asked FAANG Tech Startups & Wall Street,"[Nick Singh,Kevin Huo]",26,301,4.5,599,7 x 0.68 x 10 inches,1.28 pounds,English
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,"[Joe Reis,Matt Housley]",50.76,446,5,33,7 x 1 x 9.25 inches,1.57 pounds,English
+Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra Probability and Statistics,[Thomas Nield],44.8,347,4.5,27,7 x 0.75 x 9 inches,1.23 pounds,English
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,"[Foster Provost,Tom Fawcett]",36.99,413,4.5,970,7 x 0.9 x 9.19 inches,1.5 pounds,English
+Data Science from Scratch: First Principles with Python,[Joel Grus],45.22,406,4.4,594,6.9 x 0.9 x 9.1 inches,1.4 pounds,English
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python,"[Peter Bruce,Andrew Bruce et al.]",24.88,368,4.6,655,7 x 0.9 x 9.1 inches,1.3 pounds,English
+Python for Data Science: A Hands-On Introduction,[Yuli Vasiliev],28.49,240,4.3,6,7 x 0.71 x 9.25 inches,13 ounces,English
+Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python,[Mike Cohen],69.99,328,,0,7 x 0.69 x 9.19 inches,1.15 pounds,English
+Data Science (The MIT Press Essential Knowledge series),,9.61,280,4.5,383,5 x 0.57 x 6.9 inches,8.8 ounces,English
+Data Science For Dummies (For Dummies (Computer/Tech)),[Lillian Pierson],25.49,432,4.6,35,7.3 x 1 x 9.1 inches,1.35 pounds,English
+Azure Data Engineer Associate Certification Guide: A hands-on reference guide to developing your data engineering skills and preparing for the DP-203 exam,[Newton Alex],49.99,574,4.1,16,7.5 x 1.3 x 9.25 inches,2.15 pounds,English
+Data Pipelines with Apache Airflow,"[Bas P. Harenslak,Julian Rutger de Ruiter]",47.62,480,4.7,44,7.38 x 1.4 x 9.25 inches,1.9 pounds,English
+Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data,[Nathan George],51.99,620,4.7,21,7.5 x 1.4 x 9.25 inches,2.31 pounds,English
+Data Science on AWS: Implementing End-to-End Continuous AI and Machine Learning Pipelines,"[Chris Fregly,Antje Barth]",31.99,521,4.4,135,7 x 1.05 x 9.19 inches,1.82 pounds,English
+Data Analysis for Business Economics and Policy,"[GÃ¡bor BÃ©kÃ©s,GÃ¡bor KÃ©zdi]",61.74,738,4.4,26,7.5 x 1.74 x 9.25 inches,3.51 pounds,English
+Machine Learning Design Interview: Machine Learning System Design Interview,[Khang Pham],34.15,210,3.6,57,6 x 0.48 x 9 inches,11.8 ounces,English
+Hands-On Data Analysis with Pandas: A Python data science handbook for data collection wrangling analysis and visualization 2nd Edition,"[Stefanie Molin,Ken Jee]",35.67,788,4.3,64,7.5 x 1.78 x 9.25 inches,2.93 pounds,English
+Business Data Science: Combining Machine Learning and Economics to Optimize Automate and Accelerate Business Decisions,[Matt Taddy],33.43,352,4.5,143,1.19 x 7.38 x 9.25 inches,1.62 pounds,English
+The Art of Statistics: How to Learn from Data,[David Spiegelhalter],17.99,448,4.6,2764,5.4 x 1.3 x 8.2 inches,13.6 ounces,English
+Cleaning Data for Effective Data Science: Doing the other 80% of the work with Python R and command-line tools,[David Mertz],39.99,498,4.8,27,7.5 x 1.13 x 9.25 inches,1.85 pounds,English
+Everything Data Analytics-A Beginners Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights (Guides for Data Analytics Data Visualization and Communicating Data),,14.49,148,4.2,17,5.5 x 0.37 x 8.5 inches,8.8 ounces,English
+Effective Data Science Infrastructure: How to make data scientists productive,[Ville Tuulos],49.99,352,5,5,7.38 x 0.8 x 9.25 inches,1.15 pounds,English
+Python Data Science Handbook: Essential Tools for Working with Data,[Jake VanderPlas],66.49,550,,0,,1.11 pounds,English
+The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science,[Alex Gorelik],40.1,224,4.3,71,7 x 0.4 x 9.1 inches,11.2 ounces,English
+Data-Driven Science and Engineering: Machine Learning Dynamical Systems and Control,"[Steven L. Brunton,J. Nathan Kutz]",58.49,614,4.6,14,7.1 x 1.1 x 10.1 inches,3.1 pounds,English
+Hands-On Data Science for Marketing: Improve your marketing strategies with machine learning using Python and R,[Yoon Hyup Hwang],44.99,464,4.3,63,7.5 x 1.05 x 9.25 inches,1.74 pounds,English
+Be Data Driven: How Organizations Can Harness the Power of Data,[Jordan Morrow],34.99,240,5,1,6.14 x 0.55 x 9.21 inches,12 ounces,English
+Data Science Projects with Python: A case study approach to gaining valuable insights from real data with machine learning 2nd Edition,[Stephen Klosterman],36.99,432,4.6,52,7.5 x 0.98 x 9.25 inches,1.63 pounds,English
+The Kaggle Book: Data analysis and machine learning for competitive data science,"[Konrad Banachewicz,Luca Massaron et al.]",39.94,530,4.6,68,7.5 x 1.2 x 9.25 inches,1.98 pounds,English
+Think Like a Data Scientist: Tackle the data science process step--step,[Brian Godsey],29.59,328,4.5,31,7.38 x 0.7 x 9.25 inches,1.47 pounds,English
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable Scalable and Maintainable Systems,[Martin Kleppmann],23.37,611,4.8,3167,7.01 x 1.24 x 9.17 inches,2.15 pounds,English
+Data Smart: Using Data Science to Transform Information into Insight,[John W. Foreman],21.1,432,4.5,346,7.3 x 0.8 x 9.1 inches,1.6 pounds,English
+Python for Data Analysis: Data Wrangling with pandas NumPy and Jupyter,[Wes McKinney],62.99,579,5,1,9.1 x 1.2 x 6.9 inches,2.07 pounds,English
+Modern Data Science with R (Chapman & Hall/CRC Texts in Statistical Science),,72.59,632,3.9,9,7.25 x 1.5 x 10.25 inches,3.31 pounds,English
+Machine Learning: 4 Books in 1: The #1 Beginners Guide to Master the Basics of Python Programming Learn the Art of Data Science and Build Artificial Intelligence,[Andrew Park],25.97,342,4.6,344,6 x 0.78 x 9 inches,1.29 pounds,English
+Building Big Data Pipelines with Apache Beam: Use a single programming model for both batch and stream data processing,[Jan Lukavsky],46.99,342,3.9,11,7.5 x 0.78 x 9.25 inches,1.3 pounds,English
+Algorithmic Finance: A Companion To Data Science,[Christopher Hian-ann Ting],116.85,408,,0,6 x 1.15 x 9 inches,1.58 pounds,English
+Naked Statistics: Stripping the Dread from the Data,,11.69,304,4.6,2271,5.5 x 0.8 x 8.2 inches,7.1 ounces,English
+Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians (Chapman & Hall/CRC Texts in Statistical Science),,64.1,516,4,14,6.9 x 1.1 x 10 inches,2.35 pounds,English
+Julia Data Science,"[Jose Storopoli,Rik Huijzer et al.]",31.99,170,4.5,9,7 x 0.4 x 10 inches,13.9 ounces,English
+Listening to People: A Practical Guide to Interviewing Participant Observation Data Analysis and Writing It All Up (Chicago Guides to Writing Editing and Publishing),,19,333,4.5,33,6 x 0.9 x 9 inches,1.01 pounds,English
+Doing Data Science: Straight Talk from the Frontline,"[""Cathy ONeil"",Rachel Schutt]",26.3,408,4.3,172,6 x 0.78 x 9 inches,1.2 pounds,English
+Microsoft Power BI Quick Start Guide: Bring your data to life through data modeling visualization digital storytelling and more 2nd Edition,"[Devin Knight,Mitchell Pearson et al.]",28.49,294,4.3,142,7.5 x 0.67 x 9.25 inches,1.12 pounds,English
+R in Action Third Edition: Data analysis and graphics with R and Tidyverse,[Robert I. Kabacoff],56.99,656,4.6,8,7.38 x 1.5 x 9.25 inches,2.15 pounds,English
+Data Science Ethics: Concepts Techniques and Cautionary Tales,[David Martens],37.2,272,5,2,9.4 x 0.6 x 6.2 inches,15.5 ounces,English
+Data Science and Machine Learning: Mathematical and Statistical Methods (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,77.43,510,4.8,37,8.9 x 1.2 x 11 inches,3.73 pounds,English
+Data Mesh in Action,"[Jacek Majchrzak,Sven Balnojan et al.]",69.99,300,,0,7.38 x 0.75 x 9.25 inches,12.6 ounces,English
+The Machine Learning Solutions Architect Handbook: Create machine learning platforms to run solutions in an enterprise setting,[David Ping],43.97,442,4.7,39,7.5 x 1 x 9.25 inches,1.66 pounds,English
+Practical Big Data Analytics: Hands-on techniques to implement enterprise analytics and machine learning using Hadoop Spark NoSQL and R,[Nataraj Dasgupta],44.99,412,3.8,7,7.5 x 0.93 x 9.25 inches,1.55 pounds,English
+Simplify Big Data Analytics with Amazon EMR: A beginners guide to learning and implementing Amazon EMR for building data analytics solutions,[Sakti Mishra],46.99,430,5,9,7.5 x 0.97 x 9.25 inches,1.62 pounds,English
+Bootstrap:Data Science Workbook,"[Emmanuel Schanzer,Kathi Fisler et al.]",4.73,148,,0,8.5 x 0.34 x 10.98 inches,9.6 ounces,English
+Amazon Redshift Cookbook: Recipes for building modern data warehousing solutions,"[Shruti Worlikar,Thiyagarajan Arumugam et al.]",51.99,384,4.5,23,7.5 x 0.87 x 9.25 inches,1.45 pounds,English
+SQL for Data Analytics: Harness the power of SQL to extract insights from data 3rd Edition,"[Jun Shan,Matt Goldwasser et al.]",44.99,540,5,6,7.5 x 1.22 x 9.25 inches,2.02 pounds,English
+Communicating with Data: Making Your Case With Data,[Carl Allchin],40.99,340,5,4,7 x 0.5 x 9.25 inches,1.2 pounds,English
+Data Analytics: A Small Data Approach (Chapman & Hall/CRC Data Science Series),,89.95,257,5,2,8.5 x 0.75 x 11 inches,1.48 pounds,English
+Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples,[Jeremy Kubica],29.99,304,,0,7 x 0.7 x 9.2 inches,13 ounces,English
+Data Analysis with R - Second Edition: A comprehensive guide to manipulating analyzing and visualizing data in R,[Tony Fischetti],38.82,570,4.4,20,7.5 x 1.29 x 9.25 inches,2.13 pounds,English
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,[Gareth Eagar],39.99,482,4.4,48,7.5 x 1.09 x 9.25 inches,1.81 pounds,English
+Data Science: Advanced Guide to Learn the Realms of Data Science Effectively,[Benjamin Smith],19.99,212,,0,6 x 0.48 x 9 inches,10.2 ounces,English
+Data Science for Supply Chain Forecasting,[Nicolas Vandeput],49.39,280,4.6,63,6.69 x 0.65 x 9.61 inches,1.16 pounds,English
+Heard In Data Science Interviews: Over 650 Most Commonly Asked Interview Questions & Answers,[Kal Mishra],37.99,240,3.2,52,6 x 0.55 x 9 inches,11.5 ounces,English
+DATA ANALYTICS: A Comprehensive Beginnerâ€™s Guide To Learn About The Realms Of Data Analytics From A-Z,[Mr Benjamin Smith],19.99,153,4.2,37,6 x 0.35 x 9 inches,7.5 ounces,English
+Introduction to Data Science: Data Analysis and Prediction Algorithms with R (Chapman & Hall/CRC Data Science Series),,77.28,713,4.8,34,7 x 1.6 x 10.1 inches,3.67 pounds,English
+Introduction to Machine Learning with R: Rigorous Mathematical Analysis,[Scott V. Burger],49.99,226,4.1,21,7 x 0.48 x 9.19 inches,14.3 ounces,English
+PYTHON FOR DATA SCIENCE: The Ultimate Beginnersâ€™ Guide to Learning Python Data Science Step Step,[Mr Ethan Williams],19.99,199,4.3,68,6 x 0.45 x 9 inches,9.6 ounces,English
+97 Things About Ethics Everyone in Data Science Should Know: Collective Wisdom from the Experts,[Bill Franks],30.99,346,4.1,18,6 x 0.72 x 9 inches,1.02 pounds,English
+Data Science for Marketing Analytics: A practical guide to forming a killer marketing strategy through data analysis with Python 2nd Edition,"[Mirza Rahim Baig,Gururajan Govindan et al.]",36.99,636,4.6,51,7.5 x 1.44 x 9.25 inches,2.37 pounds,English
+Video Data Analysis: How to Use 21st Century Video in the Social Sciences,"[Anne Nassauer,Nicolas M. Legewie]",45,320,5,1,6 x 0.67 x 9 inches,1.13 pounds,English
+The Beginners Guide to Data Science,"[Robert Ball,Brian Rague]",69.99,382,,0,,1.74 pounds,English
+Hands-On Data Science with R: Techniques to perform data manipulation and mining to build smart analytical models using R,"[Vitor Bianchi Lanzetta,Nataraj Dasgupta et al.]",39.99,420,4.1,5,7.5 x 0.95 x 9.25 inches,1.58 pounds,English
+The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists,"[Carl Shan,William Chen et al.]",24.99,346,4.4,55,6 x 0.78 x 9 inches,12.6 ounces,English
+Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python,"[Hariom Tatsat,Sahil Puri et al.]",44.49,432,4.3,51,7 x 1 x 9.1 inches,1.45 pounds,English
+Practical Python Data Wrangling and Data Quality: Getting Started with Reading Cleaning and Analyzing Data,[Susan McGregor],31.99,,3.5,2,7 x 0.75 x 9.25 inches,1.45 pounds,English
+Cracking the Data Science Interview: 101+ Data Science Questions & Solutions,[Maverick Lin],11.99,119,3.7,48,5.5 x 0.3 x 8.5 inches,5.6 ounces,English
+SQL for Data Scientists: A Beginners Guide for Building Datasets for Analysis,[Renee M. P. Teate],32.49,288,4.7,54,7.38 x 0.65 x 9.25 inches,1.06 pounds,English
+MLOps Engineering at Scale,[Carl Osipov],44.49,344,4.2,3,7.38 x 0.7 x 9.25 inches,1.61 pounds,English
+The Data Science Design Manual (Texts in Computer Science),,52.05,462,4.8,63,7.2 x 1.1 x 9.4 inches,22.2 pounds,English
+Big Data: A Very Short Introduction (Very Short Introductions),[Dawn E. Holmes],11.07,144,4.4,72,6.8 x 4.5 x 0.5 inches,4.3 ounces,English
+SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights,[Cathy Tanimura],40.49,360,4.7,50,6.75 x 0.75 x 8.75 inches,1.2 pounds,English
+The Cyberwarrior Handbook: A Beginners Guide to Hacking from Recon to Exploitation,[OccupyTheWeb],49.99,352,,0,,13 ounces,English
+Comet for Data Science: Enhance your ability to manage and optimize the life cycle of your data science project,"[Angelica Lo Duca,Gideon Mendels]",44.99,402,5,2,7.5 x 0.91 x 9.25 inches,1.52 pounds,English
+Optimization for Data Analysis,"[Stephen J. Wright,Benjamin Recht]",38.91,238,5,2,6.25 x 0.75 x 9.25 inches,1.07 pounds,English
+The Self-Taught Computer Scientist: The Beginners Guide to Data Structures & Algorithms,[Cory Althoff],19.49,224,4.5,87,7.38 x 0.51 x 9.25 inches,13.6 ounces,English
+Quantitative Social Science: An Introduction in tidyverse,"[Kosuke Imai,Nora Webb Williams]",49.99,488,3.8,3,6.75 x 1 x 9.75 inches,1.92 pounds,English
+Data Science Interview: Prep for SQL Panda Python R Language Machine Learning DBMS and RDBMS â€“ And More â€“ The Full Data Scientist Interview Handbook,[DSI ACE PREP],24.99,156,4.7,44,6 x 0.39 x 9 inches,7.1 ounces,English
+The Data Vault Guru: a pragmatic guide on building a data vault,[Mr Patrick Cuba],76.96,676,4.1,13,8 x 1.59 x 10 inches,3.43 pounds,English
+Responsible Data Science,"[Grant Fleming,Peter C. Bruce]",19.86,304,3.8,8,7.38 x 0.69 x 9.25 inches,1.12 pounds,English
+Fundamentals of Data Science with MATLAB: Introduction to Scientific Computing Data Analysis and Data Visualization,[Arash Karimpour],26,424,4.5,4,7.5 x 0.96 x 9.25 inches,1.99 pounds,English
+Python for Data Science: Clear and Complete Guide to Data Science and Analysis with Python,[Alex Campbell],14.95,197,3.9,9,6 x 0.45 x 9 inches,10.5 ounces,English
+Learn Power BI: A comprehensive step--step guide for beginners to learn real-world business intelligence 2nd Edition,[Greg Deckler],44.64,458,4.4,30,7.5 x 1.04 x 9.25 inches,1.72 pounds,English
+Data Visualization with Excel Dashboards and Reports,[Dick Kusleika],22.99,352,4.4,77,7.2 x 0.8 x 9 inches,1.27 pounds,English
+Data Science For Dummies 2nd Edition,"[Lillian Pierson,Jake Porway]",41.02,384,4.4,205,7.3 x 1 x 9 inches,1.13 pounds,English
+Hands-On Data Structures and Algorithms with Python: Store manipulate and access data effectively and boost the performance of your applications 3rd Edition,[Dr. Basant Agarwal],44.99,496,4.6,5,7.5 x 1.12 x 9.25 inches,1.86 pounds,English
+Business Intelligence Analytics and Data Science: A Managerial Perspective,"[Ramesh Sharda,Dursun Delen et al.]",106.66,512,4.5,273,9.8 x 7.8 x 0.7 inches,2.03 pounds,English
+Guide to Data Science: Brief Introduction to the Quirky World of Data,[Aryan Goyal],14.99,151,5,1,8.5 x 0.35 x 11 inches,1.02 pounds,English
+Machine Learning for Time Series Forecasting with Python,[Francesca Lazzeri],32.49,224,3.9,43,7.38 x 0.51 x 9.25 inches,13.4 ounces,English
+Introduction to Computation: Haskell Logic and Automata (Undergraduate Topics in Computer Science),,33.9,382,5,3,8.25 x 0.79 x 11 inches,2.08 pounds,English
+Data Science: Concepts and Practice,"[Vijay Kotu,Bala Deshpande]",69.34,568,4.5,9,7.52 x 1.28 x 9.25 inches,2.4 pounds,English
+Inferential Network Analysis (Analytical Methods for Social Research),,54.81,314,4.7,7,6 x 0.75 x 8.75 inches,1.04 pounds,English
+Data Science In The Library: Tools and Strategies for Supporting Data-Driven Research and Instruction,[Joel Herndon],80.31,224,,0,9.21 x 0.55 x 6.02 inches,9.5 ounces,English
+Foundational Python for Data Science (Addison-Wesley Data & Analytics Series),,39.99,256,4.3,7,7 x 0.6 x 9 inches,14.8 ounces,English
+Integrating Data,"[Bill Inmon,Patty Haines et al.]",39.95,134,5,1,6 x 0.31 x 9 inches,6.7 ounces,English
+Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools,[Vince Buffalo],45.77,536,4.6,109,7 x 1.09 x 9.19 inches,1.9 pounds,English
+Python Crash Course 2nd Edition: A Hands-On Project-Based Introduction to Programming,[Eric Matthes],21.49,544,4.7,7425,7 x 1.2 x 9.25 inches,2.3 pounds,English
+The Esri Guide to GIS Analysis Volume 3: Modeling Suitability Movement and Interaction (The ESRI Guide to GIS Analysis 3),[Andy Mitchell],33.93,420,4.4,27,9.5 x 1 x 7.75 inches,2.15 pounds,English
+The Applied SQL Data Analytics Workshop: Develop your practical skills and prepare to become a professional data analyst 2nd Edition,"[Matt Goldwasser,Upom Malik et al.]",34.99,484,4.6,40,7.5 x 1.09 x 9.25 inches,1.67 pounds,English
+Data Mesh: Delivering Data-Driven Value at Scale,[Zhamak Dehghani],51.89,384,4.5,101,6.75 x 1 x 9 inches,1.35 pounds,English
+End-to-End Data Science with SASÂ®: A Hands-On Programming Guide,[James Gearheart],39.95,380,4.5,17,7.5 x 0.86 x 9.25 inches,1.44 pounds,English
+An Introduction to Data Science,"[Jeffrey S. Saltz,Jeffrey M. Stanton]",44.86,288,4.4,75,7.38 x 0.65 x 9.13 inches,1.1 pounds,English
+Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series),,99,864,4.4,73,8.25 x 1.44 x 9.29 inches,3.4 pounds,English
+Computer Science Unleashed: Harness the Power of Computational Systems,,29.95,268,4.9,25,5.5 x 0.73 x 8.5 inches,3.52 ounces,English
+R Statistics Cookbook: Over 100 recipes for performing complex statistical operations with R 3.5,[Francisco Juretig],24.99,448,4.6,22,7.5 x 1.01 x 9.25 inches,1.68 pounds,English
+Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries,[Jim Frost],18.91,255,4.5,199,6 x 0.58 x 9 inches,12.2 ounces,English
+Algorithms and Data Structures for Massive Datasets,"[Dzejla Medjedovic,Emin Tahirovic et al.]",59.99,304,3.8,3,7.38 x 0.8 x 9.25 inches,1.02 pounds,English
+Data Science (Chapman & Hall/CRC Data Science Series),"[Tiffany Timbers,Trevor Campbell et al.]",59.95,442,,0,7.01 x 1 x 10 inches,1.86 pounds,English
+Data Democratization with Domo: Bring together every component of your business to make better data-driven decisions using Domo,[Jeff Burtenshaw],49.99,576,4.8,6,7.5 x 1.3 x 9.25 inches,2.15 pounds,English
+Determannâ€™s Field Guide to Data Privacy Law: International Corporate Compliance (Elgar Compliance Guides),[Lothar Determann],73.08,256,,0,5.75 x 0.5 x 8.75 inches,11.8 ounces,English
+Data Visualization with Python for Beginners: Visualize Your Data using Pandas Matplotlib and Seaborn (Machine Learning & Data Science for Beginners),,19.99,288,4.1,61,6 x 0.65 x 9 inches,13.6 ounces,English
+Practical Synthetic Data Generation: Balancing Privacy and the Broad Availability of Data,"[Khaled El Emam,Lucy Mosquera et al.]",28.49,166,4.1,14,7 x 0.35 x 9.19 inches,9.6 ounces,English
+Data Analysis in Sports Science,"[Gabriel J. Sanders PhD,Corey A. Peacock PhD]",59.99,130,4.7,7,6 x 0.31 x 9 inches,9.6 ounces,English
+Python for Geospatial Data Analysis: Theory Tools and Practice for Location Intelligence,[Bonny McClain],66.49,200,,0,,1.11 pounds,English
+Data Science for Librarians (Library and Information Science Text Series),,65,168,5,2,7 x 0.41 x 10 inches,13.6 ounces,English
+Basketball Data Science: With Applications in R (Chapman & Hall/CRC Data Science Series),,43.35,219,4.1,20,6.25 x 0.5 x 9.5 inches,14.7 ounces,English
+Data Analytics for Absolute Beginners: A Deconstructed Guide to Data Literacy: (Introduction to Data Data Visualization Business Intelligence & ... Science Python & Statistics for Beginners),,14.9,153,4.4,309,6 x 0.39 x 9 inches,8.3 ounces,English
+Bayesian Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,78.22,675,4.7,200,7.5 x 1.25 x 10.25 inches,3.05 pounds,English
+Murachs Python for Data Analysis (Training & Reference),[Scott Mccoy],58.33,559,4.6,22,7.75 x 1.5 x 9.75 inches,2.8 pounds,English
+Cracking the Coding Interview: 189 Programming Questions and Solutions,[Gayle Laakmann McDowell],35.95,687,4.7,7563,7 x 1.59 x 10 inches,2.69 pounds,English
+Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server,[Joshua Cook],49.49,278,3.7,10,6.1 x 0.64 x 9.25 inches,9.56 pounds,English
+Mastering PostgreSQL 13: Build administer and maintain database applications efficiently with PostgreSQL 13 4th Edition,[Hans-Jurgen Schonig],41.99,476,4.2,35,7.5 x 1.08 x 9.25 inches,1.79 pounds,English
+Data Analysis with Python and PySpark,[Jonathan Rioux],48,456,4.8,7,7.38 x 1 x 9.25 inches,1.68 pounds,English
+PYTHON: Learn Coding Programs with Python Programming and Master Data Analysis & Analytics Data Science and Machine Learning with the Complete Crash Course for Beginners - 5 Manuscripts in 1 Book,[TechExp Academy],24.9,400,4.2,282,8 x 0.91 x 10 inches,1.9 pounds,English
+DATA SCIENCE WITH PYTHON: Complete Guide To Understanding Data Analytics And Data Science With Python Programming (Code tutorials),[Craig Berg],9.98,138,,0,6 x 0.35 x 9 inches,7.5 ounces,English
+Data Analytics: Practical Guide to Leveraging the Power of Algorithms Data Science Data Mining Statistics Big Data and Predictive Analysis to Improve Business Work and Life,[Arthur Zhang],11.97,280,3.7,17,6 x 0.64 x 9 inches,1.08 pounds,English
+Introduction to Machine Learning,[Etienne Bernard],29.6,424,4.4,11,7 x 0.86 x 10 inches,1.61 pounds,English
+Hands-On Data Structures and Algorithms with Kotlin: Level up your programming skills understanding how Kotlins data structure works,"[Chandra Sekhar Nayak,Rivu Chakraborty]",36.99,220,3.6,4,7.5 x 0.5 x 9.25 inches,13.6 ounces,English
+Asking Smarter Questions: How To Be an Agent of Insight (Using Data Better),[Sam Knowles],39.95,280,,0,5.06 x 0.64 x 7.81 inches,1.23 pounds,English
+Scalable Data Analytics with Azure Data Explorer: Modern ways to query analyze and perform real-time data analysis on large volumes of data,"[Jason Myerscough,Arunee Singhchawla]",51.99,364,5,8,7.5 x 0.82 x 9.25 inches,1.38 pounds,English
+The Political Philosophy of AI: An Introduction,[Mark Coeckelbergh],19.59,176,3.7,7,5.4 x 0.7 x 8.5 inches,9.6 ounces,English
+Transformers for Machine Learning: A Deep Dive (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Uday Kamath,Kenneth Graham et al.]",54.95,257,3.9,8,6.1 x 0.7 x 9.2 inches,12.2 ounces,English
+Predictive Analytics: Data Mining Machine Learning and Data Science for Practitioners (Pearson Business Analytics Series),[Dursun Delen],47.49,350,4.1,12,5.95 x 1.1 x 8.9 inches,1.48 pounds,English
+Pre-K-12 Guidelines for Assessment and Instruction in Statistics Education II (GAISE II): A Framework for Statistics and Data Science Education,"[Anna Bargagliotti,Christine Franklin et al.]",15,122,5,4,8.5 x 0.28 x 11 inches,10.7 ounces,English
+Confident Data Skills: How to Work with Data and Futureproof Your Career (Confident Series),,14.64,320,4.7,15,5.51 x 0.79 x 8.46 inches,14.1 ounces,English
+Learning Tableau 2022,"[Joshua N. Milligan,Blair Hutchinson et al.]",55.09,566,5,14,7.5 x 1.28 x 9.25 inches,2.12 pounds,English
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling 3rd Edition,,40.16,600,4.7,531,7.38 x 1.36 x 9.25 inches,2.14 pounds,English
+Data Science in Education Using R,"[Ryan A. Estrellado,Jesse Mostipak et al.]",48.95,284,4.6,15,6.85 x 0.72 x 9.69 inches,1.31 pounds,English
+Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!),,84.99,394,4.3,53,6.1 x 0.93 x 9.25 inches,1.48 pounds,English
+Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts using Python (Machine Learning & Data Science for Beginners),,17.99,188,4.3,22,6 x 0.43 x 9 inches,9.1 ounces,English
+Detecting Regime Change in Computational Finance: Data Science Machine Learning and Algorithmic Trading,"[Jun Chen,Edward P K Tsang]",54.95,138,,0,6.14 x 0.35 x 9.21 inches,10.6 ounces,English
+Massive Graph Analytics (Chapman & Hall/CRC Data Science Series),,150,590,,0,7 x 1.5 x 10 inches,2.86 pounds,English
+Practical Data Science with R,"[Nina Zumel,John Mount]",35.74,483,4.5,36,7.38 x 1.2 x 9.25 inches,2.29 pounds,English
+Neo4j Graph Data Science Certified: Exam Practice Tests,[Cristian Scutaru],14.99,118,4.5,2,6 x 0.27 x 9 inches,6.1 ounces,English
+Grokking Machine Learning,[Luis Serrano],47.99,512,4.6,10,7.38 x 1.1 x 9.25 inches,1.9 pounds,English
+Data Science for Immunologists,"[Niclas Thomas,Laura Pallett]",28.06,159,4.7,18,7 x 0.38 x 10 inches,12 ounces,English
+Data Science Analytics and Machine Learning with R,"[Luiz Paulo Favero,Patricia Belfiore et al.]",150,924,,0,,1.11 pounds,English
+The TensorFlow Workshop: A hands-on guide to building deep learning models from scratch using real-world datasets,"[Matthew Moocarme,Anthony So et al.]",41.99,600,4.3,26,7.5 x 1.36 x 9.25 inches,2.24 pounds,English
+Data Action: Using Data for Public Good,[Sarah Williams],33.69,312,4.7,38,9.2 x 0.89 x 10.29 inches,3.05 pounds,English
+Data Governance For Dummies,[Jonathan Reichental],34.99,320,,0,,1.47 pounds,English
+A Criminologists Guide to R: Crime the Numbers (Chapman & Hall/CRC The R Series),[Jacob Kaplan],79.96,434,,0,,1.74 pounds,English
+Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques,[Mike Grigs],35.99,240,4.4,50,5.91 x 0.79 x 9.06 inches,14.1 ounces,English
+Applied Data Science: Lessons Learned for the Data-Driven Business,"[Martin Braschler,Thilo Stadelmann et al.]",179.99,478,1,1,6.14 x 1.06 x 9.21 inches,1.94 pounds,English
+The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies,"[Blaine Bateman,Saikat Basak et al.]",47.49,744,4.6,10,7.5 x 1.68 x 9.25 inches,2.77 pounds,English
+Data Modeling for Azure Data Services: Implement professional data design and structures in Azure,[Peter ter Braake],51.99,428,4.6,16,7.5 x 0.97 x 9.25 inches,1.61 pounds,English
+SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL,"[Upom Malik,Matt Goldwasser et al.]",27.89,386,4.4,226,7.5 x 0.87 x 9.25 inches,1.46 pounds,English
+Ethics of Data and Analytics: Concepts and Cases,[Kirsten Martin],69.95,474,,0,7 x 0.99 x 10 inches,2.01 pounds,English
+Introduction to Computation and Programming Using Python: With Application to Understanding Data (The MIT Press),[John V. Guttag],42.75,472,4.6,561,7 x 0.81 x 9 inches,1.68 pounds,English
+SQL: 3 books 1 - The Ultimate Beginner Intermediate & Expert Guides To Master SQL Programming Quickly with Practical Exercises,[Mark Reed],24.29,346,4.9,187,7 x 0.78 x 10 inches,1.66 pounds,English
+Machine Learning Bookcamp: Build a portfolio of real-life projects,[Alexey Grigorev],35.99,472,5,7,7.38 x 0.6 x 9.25 inches,1.85 pounds,English
+The Data Model Resource Book Vol. 2: A Library of Data Models for Specific Industries,"[Len Silverston,John A. Zachman]",61.82,576,4,36,7.3 x 1.3 x 8.9 inches,2.4 pounds,English
+Essential PySpark for Scalable Data Analytics: A beginners guide to harnessing the power and ease of PySpark 3,[Sreeram Nudurupati],46.99,322,4.5,16,7.5 x 0.73 x 9.25 inches,1.22 pounds,English
+Cloud Scale Analytics with Azure Data Services: Build modern data warehouses on Microsoft Azure,[Patrik Borosch],54.99,520,4.8,7,7.5 x 1.18 x 9.25 inches,1.95 pounds,English
+Can We Trust AI? (Johns Hopkins Wavelengths),"[Rama Chellappa,Eric Niiler]",16.95,224,,0,5 x 0.64 x 7 inches,1.11 pounds,English
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,[Paul Crickard],37.79,356,4.2,95,7.5 x 0.81 x 9.25 inches,1.35 pounds,English
+Mastering Tableau 2021: Implement advanced business intelligence techniques and analytics with Tableau 3rd Edition,"[Marleen Meier,David Baldwin et al.]",46.99,792,4.4,83,7.5 x 1.79 x 9.25 inches,2.42 pounds,English
+Geographical Data Science and Spatial Data Analysis: An Introduction in R (Spatial Analytics and GIS),,51,360,4.5,6,6.69 x 0.75 x 9.61 inches,1.26 pounds,English
+Malware Data Science: Attack Detection and Attribution,"[Joshua Saxe,Hillary Sanders]",37.03,272,4.6,87,7 x 0.69 x 9.31 inches,1.37 pounds,English
+Learning Geospatial Analysis with Python: Understand GIS fundamentals and perform remote sensing data analysis using Python 3.7 3rd Edition,[Joel Lawhead],49.99,456,4.4,26,7.5 x 1.03 x 9.25 inches,1.71 pounds,English
+The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios,"[Steve Wexler,Jeffrey Shaffer et al.]",24.49,448,4.6,662,8.4 x 1.2 x 8.3 inches,2.77 pounds,English
+Machine Learning with R: Expert techniques for predictive modeling 3rd Edition,[Brett Lantz],37.99,458,4.6,232,7.5 x 1.04 x 9.25 inches,1.72 pounds,English
+Hands-on Programmatic In-house Digital Advertising: Learn Data Design AI Implementation Bidding Strategies and Strategic Thinking (English Edition),[Raghavendra Agarwala],29.95,208,3.5,2,7.5 x 0.47 x 9.25 inches,14.1 ounces,English
+Ontology-Based Information Retrieval for Healthcare Systems,[Vishal Jain],197.02,384,,0,6 x 1.06 x 9 inches,1 pounds,English
+Data Governance: How to Design Deploy and Sustain an Effective Data Governance Program (The Morgan Kaufmann Series on Business Intelligence),,39.17,264,4.3,87,7.5 x 0.61 x 9.25 inches,1.26 pounds,English
+Data Science in Context: Foundations Challenges Opportunities,"[Alfred Z. Spector,Peter Norvig et al.]",39.99,335,,0,9.61 x 6.69 x 0.76 inches,1.43 pounds,English
+Python Machine Learning: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow 2 3rd Edition,"[Sebastian Raschka,Vahid Mirjalili]",49.39,770,4.5,387,7.5 x 1.74 x 9.25 inches,2.86 pounds,English
+Machine Learning in Biotechnology and Life Sciences: Build machine learning models using Python and deploy them on the cloud,[Saleh Alkhalifa],49.99,408,4.1,20,7.5 x 0.92 x 9.25 inches,1.54 pounds,English
+Data Science and Big Data Analytics: Discovering Analyzing Visualizing and Presenting Data,[EMC Education Services],41.76,432,4.4,186,7.3 x 1 x 9.4 inches,2.41 pounds,English
+Fundamentals of Data Science Part I: Inference and Experiment,[Jared M Maruskin],22.63,314,5,1,6.14 x 0.66 x 9.21 inches,15.5 ounces,English
+Graph Neural Networks: Foundations Frontiers and Applications,"[Lingfei Wu,Peng Cui et al.]",85.38,725,4.6,6,6.25 x 1.75 x 9.5 inches,2.76 pounds,English
+Data-Driven Evolutionary Optimization: Integrating Evolutionary Computation Machine Learning and Data Science (Studies in Computational Intelligence 975),,169.99,418,5,1,6.14 x 0.94 x 9.21 inches,1.75 pounds,English
+Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search observe and secure your organization,"[Asjad Athick,Shay Banon]",49.99,474,4.7,9,7.5 x 1.07 x 9.25 inches,1.78 pounds,English
+Functional Aesthetics for Data Visualization,"[Vidya Setlur,Bridget Cogley]",40,336,,0,7.4 x 0.63 x 9.22 inches,1.5 pounds,English
+R Programming for Data Science,[Roger Peng],25,194,4.2,20,8.5 x 0.44 x 11 inches,15.8 ounces,English
+Building Data Science Solutions with Anaconda: A comprehensive starter guide to building robust and complete models,"[Dan Meador,Kevin Goldsmith]",44.99,330,5,13,7.5 x 0.75 x 9.25 inches,1.25 pounds,English
+Data Lakehouse in Action: Architecting a modern and scalable data analytics platform,[Pradeep Menon],39.99,206,4.3,7,7.5 x 0.47 x 9.25 inches,12.8 ounces,English
+Fundamentals of Data Science Part III: Machine Learning,[Jared M Maruskin],29.95,316,,0,6.14 x 0.66 x 9.21 inches,15.5 ounces,English
+Machine Learning and Big Data Analytics Paradigms: Analysis Applications and Challenges (Studies in Big Data 77),,13.32,659,,0,6.14 x 1.44 x 9.21 inches,2.53 pounds,English
+Data Analysis in Qualitative Research: Theorizing with Abductive Analysis,"[Stefan Timmermans,Iddo Tavory]",20,208,4.4,3,6 x 0.7 x 9 inches,9.6 ounces,English
+Mastering TensorFlow 2.x: Implement Powerful Neural Nets across Structured Unstructured datasets and Time Series Data (English Edition),[Rajdeep Dua],29.95,418,5,1,7.5 x 0.95 x 9.25 inches,1.43 pounds,English
+The Tableau Workshop: A practical guide to the art of data visualization with Tableau,"[Sumit Gupta,Sylvester Pinto et al.]",46.99,822,4.8,29,7.5 x 1.86 x 9.25 inches,3.05 pounds,English
+HBR Guide to Data Analytics Basics for Managers (HBR Guide Series),,14.19,256,4.5,371,5 x 0.75 x 9 inches,10.4 ounces,English
+The Hundred-Page Machine Learning Book,[Andriy Burkov],31.99,160,4.6,816,7.5 x 0.38 x 9.25 inches,13.8 ounces,English
+Oracle Database Administration Interview Questions Youll Most Likely Be Asked: Interview Questions Youll Most Likely Be Asked (Job Interview Questions Series),[Vibrant Publishers],23.99,236,4.2,32,5.5 x 0.54 x 8.5 inches,10.6 ounces,English
+Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions,[Jim Frost],23.74,381,4.6,101,6 x 0.86 x 9 inches,1.12 pounds,English
+Game Data Science,"[Magy Seif El-Nasr,Truong-Huy D. Nguyen et al.]",73.09,416,5,6,9.1 x 1.1 x 6 inches,1.79 pounds,English
+The Data Model Resource Book Vol. 3: Universal Patterns for Data Modeling,"[Len Silverston,Paul Agnew]",51.31,648,4.4,37,7.4 x 1.4 x 9.3 inches,2.48 pounds,English
+Supervised Machine Learning for Text Analysis in R (Chapman & Hall/CRC Data Science Series),,46.02,402,4.5,11,6.14 x 0.91 x 9.21 inches,1.23 pounds,English
+Combining DataOps MLOps and DevOps: Outperform Analytics and Software Development with Expert Practices on Process Optimization and Automation (English Edition),"[Dr. Kalpesh Parikh,Amit Johri]",29.95,,3,2,,,
+Categorical Data Analysis for the Behavioral and Social Sciences,"[Razia Azen,Cindy M. Walker]",87.94,314,,0,7.01 x 0.74 x 10 inches,1.32 pounds,English
+Big Data and Artificial Intelligence: Complete Guide to Data Science AI Big Data and Machine Learning.,[Hans Weber],24.95,160,4.1,10,6 x 0.55 x 9 inches,10.6 ounces,English
+Hands-On Healthcare Data: Taming the Complexity of Real-World Data,[Andrew Nguyen],75.99,242,,0,7 x 0.51 x 9.19 inches,13.9 ounces,English
+Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights,[Michael Walker],37.13,436,4.8,64,7.5 x 0.99 x 9.25 inches,1.64 pounds,English
+DATA SCIENCE: Simple and Effective Tips and Tricks to Learn Data Science,[Benjamin Smith],15.39,169,3.9,6,6 x 0.39 x 9 inches,8.3 ounces,English
+Natural Language Processing with Transformers: Building Language Applications with Hugging Face,"[Lewis Tunstall,Leandro von Werra et al.]",43.09,406,4.6,105,7 x 0.84 x 9.19 inches,1.54 pounds,English
+Data Mining for Business Analytics: Concepts Techniques and Applications in Python,"[Galit Shmueli,Peter C. Bruce et al.]",108.99,608,4.5,58,7.2 x 1.2 x 10.1 inches,2.42 pounds,English
+Quantitative Social Science Data with R: An Introduction,[Brian J Fogarty],51,328,4.9,16,7.3 x 0.7 x 9.6 inches,1.6 pounds,English
+Mathematics for Machine Learning,,46.54,398,4.7,580,7 x 0.92 x 10 inches,1.76 pounds,English
+Machine Learning for Time-Series with Python: Forecast predict and detect anomalies with state-of-the-art machine learning methods,[Ben Auffarth],49.39,370,4,27,7.5 x 0.84 x 9.25 inches,1.4 pounds,English
+Statistics for Health Data Science: An Organic Approach (Springer Texts in Statistics),,76.54,244,4.6,12,6.14 x 0.63 x 9.21 inches,1.18 pounds,English
+Python for Data Analysis: Data Wrangling with Pandas NumPy and IPython,[William McKinney],53.99,547,4.6,1631,7 x 1.11 x 9.19 inches,2.08 pounds,English
+Python Data Analysis: Perform data collection data processing wrangling visualization and model building using Python 3rd Edition,"[Avinash Navlani,Armando Fandango et al.]",34.99,478,4.7,45,7.5 x 1.08 x 9.25 inches,1.79 pounds,English
+R Cookbook: Proven Recipes for Data Analysis Statistics and Graphics,"[JD Long,Paul Teetor]",52.39,600,4.5,104,7 x 1.21 x 9.19 inches,2.08 pounds,English
+Microsoft Excel Data Analysis and Business Modeling (Office 2021 and Microsoft 365) (Business Skills),[Wayne Winston],40.99,1168,4.6,51,7.4 x 2.3 x 9.1 inches,4.12 pounds,English
+Data Analysis for Social Science: A Friendly and Practical Introduction,"[Elena Llaudet,Kosuke Imai]",39.95,256,,0,,1.11 pounds,English
+Guerrilla Data Analysis Using Microsoft Excel: Overcoming Crap Data and Excel Skirmishes,"[Oz du Soleil,Bill Jelen]",34.95,274,5,3,8.25 x 0.6 x 10.75 inches,1.4 pounds,English
+Qualitative Data Analysis: A Methods Sourcebook,"[Matthew B. Miles,A. Michael Huberman et al.]",85.5,408,4.7,197,8.5 x 0.92 x 11 inches,2.15 pounds,English
+Excel Data Analysis For Dummies (For Dummies (Computer/Tech)),[Paul McFedries],24.49,368,4,8,7.3 x 1 x 9.1 inches,1.3 pounds,English
+Data Analysis Using SQL and Excel,[Gordon S. Linoff],38.54,800,4.4,92,7.4 x 1.7 x 9.2 inches,2.81 pounds,English
+Python for ArcGIS Pro: Automate cartography and data analysis using ArcPy ArcGIS API for Python Notebooks and pandas,"[Silas Toms,Bill Parker et al.]",,586,4.7,50,7.5 x 1.32 x 9.25 inches,2.19 pounds,English
+Python for Excel: A Modern Environment for Automation and Data Analysis,[Felix Zumstein],32.99,335,4.5,178,7 x 0.7 x 9.19 inches,1.19 pounds,English
+Storytelling with Data: Lets Practice!,[Cole Nussbaumer Knaflic],24.49,448,4.7,555,7.9 x 0.9 x 9.8 inches,2.27 pounds,English
+Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis data preparation forecasting and model evaluation,[Tarek A. Atwan],47.49,630,4.9,10,7.5 x 1.42 x 9.25 inches,2.35 pounds,English
+Data Driven Fire Administration: An Introduction to Research Methods Statistical Analysis and Analytic Management for the Fire Service,"[H Scott Walker,Karen L. Sears]",59.99,467,,0,8 x 1.1 x 10 inches,2.73 pounds,English
+Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models,[Jim Frost],23.74,355,4.6,127,6 x 0.8 x 9 inches,1.05 pounds,English
+MASTERING EXCEL DATA & STATISTICAL ANALYSIS: All-In-One Practical Approach to Creating and Analyzing Data Charts And Pivot Tables for Better Business ... Tricks on Data Analysis & Business Modelling,[CARTY BINN],23.37,708,,0,7.44 x 1.6 x 9.69 inches,3.38 pounds,English
+"Problems for ""Data Analysis for Social Scientists: A Foundational Crash Course""",[Sara Fisher Ellison],10,127,3.5,3,8.27 x 0.29 x 11.69 inches,14.4 ounces,English
+Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis,"[Ethan Bueno de Mesquita,Anthony Fowler]",28.45,400,4.3,34,7 x 1 x 9.75 inches,1.55 pounds,English
+Topological Data Analysis with Applications,"[Gunnar Carlsson,Mikael Vejdemo-Johansson]",42.58,230,5,4,6.75 x 0.75 x 9.75 inches,1.28 pounds,English
+Storytelling with Data: A Data Visualization Guide for Business Professionals,[Cole Nussbaumer Knaflic],28.49,288,4.6,3313,7.4 x 0.9 x 9.2 inches,1.46 pounds,English
+R in Action: Data Analysis and Graphics with R,[Dr. Rob Kabacoff],51.96,608,4.6,247,7.38 x 1.3 x 9.25 inches,1.98 pounds,English
+Excel 2022: The Most Comprehensive Guide to Learn All Formulas and Functions in Just One Week with Step--Step Explanations Practical Examples & Picture Demonstrations.,[Kevin Cooper],19.62,168,4.9,89,8.5 x 0.38 x 11 inches,15.8 ounces,English
+Data Analysis: For Continuous School Improvement,[Victoria L. Bernhardt],39.96,426,4.6,242,8.46 x 0.96 x 10.98 inches,2.54 pounds,English
+Lab Manual for Statistical Analysis,"[Dawn M. McBride,J. Cooper Cutting]",30,128,4.8,14,8.5 x 0.29 x 11 inches,11.3 ounces,English
+Longitudinal Analysis: Modeling Within-Person Fluctuation and Change (Multivariate Applications Series),,76.98,626,4.6,14,7 x 1.48 x 10 inches,2.5 pounds,English
+Business Intelligence Guidebook: From Data Integration to Analytics,[Rick Sherman],54.95,550,4.4,92,7.5 x 1.24 x 9.25 inches,2.12 pounds,English
+Data Flow Diagrams - Simply Put!: Process Modeling Techniques for Requirements Elicitation and Workflow Analysis (Advanced Business Analysis Topics),,11.97,118,4.2,33,6 x 0.27 x 9 inches,5.9 ounces,English
+Julia for Data Analysis,[Bogumil Kaminski],59.99,246,,0,7.38 x 0.81 x 9.25 inches,13.6 ounces,English
+Qualitative Data Analysis: Practical Strategies,[Pat Bazeley],45,584,4.5,9,7.32 x 1.32 x 9.13 inches,2.29 pounds,English
+Econometric Analysis of Cross Section and Panel Data second edition (The MIT Press),[Jeffrey M. Wooldridge],115,1096,4.5,115,8.25 x 1.72 x 9.31 inches,4.1 pounds,English
+Computational Topology for Biomedical Image and Data Analysis (Focus Series in Medical Physics and Biomedical Engineering),,18.36,116,,0,5.5 x 0.3 x 8.5 inches,5.9 ounces,English
+R for Data Analysis in easy steps - R Programming essentials,,13.99,192,4.3,129,7.2 x 0.5 x 8.8 inches,15.2 ounces,English
+Regression Analysis of Count Data (Econometric Society Monographs Series Number 30),"[A. Colin Cameron,Pravin K. Trivedi]",,436,4.5,6,5.98 x 1.13 x 9.02 inches,1.79 pounds,English
+Secondary Data in Mixed Methods Research (Mixed Methods Research Series),,45,264,4.4,4,6 x 0.75 x 9 inches,15.2 ounces,English
+Data Analysis: A Bayesian Tutorial,"[Devinderjit Sivia,John Skilling]",47.97,246,4.6,67,9.14 x 7.56 x 0.57 inches,14.4 ounces,English
+Computational Topology for Data Analysis,"[Tamal Krishna Dey,Yusu Wang]",58.31,452,,0,6 x 1 x 9 inches,1.72 pounds,English
+Cluster Analysis 5th Edition,[Everitt],51.69,352,4.2,22,6 x 0.97 x 9 inches,1.36 pounds,English
+Intelligent Reliability Analysis Using MATLAB and AI: Perform Failure Analysis and Reliability Engineering using MATLAB and Artificial Intelligence (English Edition),"[Dr. Cherry Bhargava,Dr. Pardeep Kumar Sharma]",19.95,196,,0,6 x 0.45 x 9 inches,9.5 ounces,English
+Data Analytics: Advanced Guide to Learn the Realms of Data Analytics Effectively,[Benjamin Smith],19.99,205,,0,6 x 0.47 x 9 inches,9.9 ounces,English
+Foundations of Crime Analysis: Data Analyses and Mapping,"[Jeffery T. Walker,Grant R. Drawve]",66.95,278,4.1,11,6.85 x 0.66 x 9.69 inches,1.19 pounds,English
+Qualitative Data Analysis with NVivo,"[Kristi Jackson,Pat Bazeley]",47,376,4.6,110,6.69 x 0.78 x 9.61 inches,1.32 pounds,English
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,[Paul Houghton],44.99,366,4.8,8,7.5 x 0.83 x 9.25 inches,1.38 pounds,English
+Pandas 1.x Cookbook: Practical recipes for scientific computing time series analysis and exploratory data analysis using Python 2nd Edition,"[Matt Harrison,Theodore Petrou]",39.99,626,4.3,79,7.5 x 1.41 x 9.25 inches,2.34 pounds,English
+SPSS Survival Manual: A Step Step Guide to Data Analysis Using IBM SPSS,[Pallant],38.25,378,4.7,424,7.87 x 0.86 x 9.96 inches,1.78 pounds,English
+Advanced Algorithms and Data Structures,[Marcello La Rocca],45.99,768,4.2,21,7.38 x 1.5 x 9.25 inches,3.05 pounds,English
+Recovering Black Storytelling in Qualitative Research (Futures of Data Analysis in Qualitative Research),,34.03,192,4.5,26,6.14 x 0.53 x 9.21 inches,11.8 ounces,English
+Adventures in Social Research: Data Analysis Using IBM SPSS Statistics,"[Earl Robert Babbie,William E. Wagner et al.]",85,512,4.4,116,8.5 x 1.16 x 11 inches,2.12 pounds,English
+Data Analysis: A Model Comparison Approach to Regression ANOVA and Beyond,"[Charles M. Judd,Gary H. McClelland et al.]",73.43,366,4.4,29,7 x 0.86 x 10 inches,1.47 pounds,English
+Data Analysis with SPSS: A First Course in Applied Statistics,"[Stephen Sweet,Karen Grace-Martin]",105.99,288,4.2,60,0.8 x 8.4 x 10.8 inches,1.5 pounds,English
+Qualitative and Mixed Methods Data Analysis Using Dedoose: A Practical Approach for Research Across the Social Sciences,"[Michelle Suzanne Salmona,Eli Lieber et al.]",45,280,4.3,18,7.38 x 0.64 x 9.13 inches,1.04 pounds,English
+Doing Bayesian Data Analysis: A Tutorial with R JAGS and Stan,[John Kruschke],68.99,776,4.6,176,7.8 x 1.7 x 9.3 inches,3.84 pounds,English
+Learning R: A Step--Step Function Guide to Data Analysis,[Richard Cotton],40.99,396,4.4,152,7 x 0.82 x 9.19 inches,1.43 pounds,English
+Analysis of Panel Data (Econometric Society Monographs),[Cheng Hsiao],49.99,500,,0,6.69 x 1.09 x 9.61 inches,1.87 pounds,English
+Advanced Statistics in Research: Reading Understanding and Writing Up Data Analysis Results,[Larry Hatcher],59.95,644,4.7,96,7 x 1.46 x 10 inches,2.43 pounds,English
+Intro to Python for Computer Science and Data Science: Learning to Program with AI Big Data and The Cloud,"[Paul Deitel,Harvey Deitel]",86.69,880,4.7,279,7 x 1.45 x 9.1 inches,2.83 pounds,English
+Social Statistics: Managing Data Conducting Analyses Presenting Results (Sociology Re-Wired),[Thomas J. Linneman],105.63,644,5,3,7.75 x 1.25 x 9.5 inches,2.76 pounds,English
+An Introduction to Analysis of Financial Data with R,[Tsay],53.71,414,4.2,26,6.14 x 1.13 x 9.21 inches,1.74 pounds,English
+Undergraduate Lectures on Measurements and Data Analysis (2nd Printing),[Dr. Paul Rumbach],30,212,,0,7.44 x 0.5 x 9.69 inches,14.9 ounces,English
+Data Structures and Algorithm Analysis in C++ Third Edition (Dover Books on Computer Science),,28.8,624,4.4,39,6.9 x 1.3 x 10 inches,2.35 pounds,English
+Experimental Design and Practical Data Analysis in POSITRON EMISSION TOMOGRAPHY,"[Prof Federico E Turkheimer,Mattia Veronese et al.]",39.9,114,4.5,4,7.38 x 0.27 x 9.84 inches,9.6 ounces,English
+Think Bayes: Bayesian Statistics in Python (Oreilly),[Allen B. Downey],23.98,338,4.5,43,7 x 0.75 x 9 inches,1.19 pounds,English
+Applying Quantitative Bias Analysis to Epidemiologic Data (Statistics for Biology and Health),,53.03,483,5,1,6.14 x 1.06 x 9.21 inches,1.87 pounds,English
+PYTHON FOR DATA ANALYSIS: A PRACTICAL GUIDE YOU CANâ€™T MISS TO MASTER DATA USING PYTHON. KEY TOOLS FOR DATA SCIENCE INTRODUCING YOU INTO DATA MANIPULATION DATA VISUALIZATION MACHINE LEARNING.,[ERICK THOMPSON],15.99,117,4.6,7,6 x 0.27 x 9 inches,5.9 ounces,English
+Data Literacy Fundamentals: Understanding the Power & Value of Data (The Data Literacy Series),,34.95,172,4.4,51,6 x 0.41 x 9 inches,10.2 ounces,English
+Data Analysis: An Introduction (Quantitative Applications in the Social Sciences),,28.01,88,4.3,15,5.5 x 0.2 x 8.5 inches,3.88 ounces,English
+Hands-On Graph Analytics with Neo4j: Perform graph processing and visualization techniques using connected data across your enterprise,[Estelle Scifo],44.99,510,4.2,23,7.5 x 1.15 x 9.25 inches,1.91 pounds,English
+Python for Data Science For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,496,4.4,178,7.4 x 1.2 x 9.2 inches,1.46 pounds,English
+Problem Solving and Data Analysis: Sat Math Practice Test,[Educational Testing Group],14.95,238,5,2,8.5 x 0.6 x 11 inches,1.53 pounds,English
+Financial Theory with Python: A Gentle Introduction,[Yves Hilpisch],32.99,204,4.3,18,6.75 x 0.5 x 8.75 inches,12 ounces,English
+Think Stats: Exploratory Data Analysis,[Allen B. Downey],25.49,226,4.2,134,7 x 0.51 x 9.19 inches,13.8 ounces,English
+Learn T-SQL Querying: A guide to developing efficient and elegant T-SQL code,"[Pedro Lopes,Pam Lahoud]",39.99,484,4.7,41,7.5 x 1.09 x 9.25 inches,1.82 pounds,English
+Analysis of Categorical Data with R (Chapman & Hall/CRC Texts in Statistical Science),,92.7,,4.6,18,7 x 1.43 x 10 inches,2.57 pounds,English
+Qualitative Data Analysis: An Introduction,[Carol Grbich],42.73,344,4.5,23,6.6 x 0.8 x 9.4 inches,1.3 pounds,English
+Exploratory Data Analysis with R,[Roger Peng],20,208,4.3,7,8.5 x 0.47 x 11 inches,1.06 pounds,English
+Statistics and Data Analysis for Nursing Research,[Denise Polit],113.99,456,4.3,239,8 x 0.9 x 9.95 inches,1.5 pounds,English
+An Introduction to Data Analysis: Quantitative Qualitative and Mixed Methods,[Tiffany Bergin],46,296,4.6,44,6.69 x 0.67 x 9.53 inches,1.15 pounds,English
+Analytics Stories: Using Data to Make Good Things Happen,[Wayne L. Winston],19.89,528,4.8,34,7.38 x 1.19 x 9.25 inches,1.88 pounds,English
+Fuzzy Transforms for Image Processing and Data Analysis: Core Concepts Processes and Applications,"[Ferdinando Di Martino,Salvatore Sessa]",169.99,227,,0,6.14 x 0.56 x 9.21 inches,1.13 pounds,English
+Data Analysis with Mplus (Methodology in the Social Sciences),,52,305,4.8,32,6 x 0.75 x 9.25 inches,1 pounds,English
+Unstructured Data Analysis: Entity Resolution and Regular Expressions in SAS,[K. Matthew Windham],34.95,166,4.5,2,7.5 x 0.38 x 9.25 inches,10.4 ounces,English
+Spatial Data Analysis: Models Methods and Techniques (SpringerBriefs in Regional Science),,74.99,88,5,1,6.1 x 0.21 x 9.25 inches,1 pounds,English
+The Good the Bad and the Data: Shane the Lone Ethnographerâ€™s Basic Guide to Qualitative Data Analysis,[Sally Campbell Galman],44.95,103,4.7,24,8.5 x 0.24 x 10.98 inches,11.2 ounces,English
+Codeless Time Series Analysis with KNIME: A practical guide to implementing forecasting models for time series analysis applications,"[Corey Weisinger,Maarit Widmann et al.]",44.99,392,4.7,5,7.5 x 0.89 x 9.25 inches,1.48 pounds,English
+An Introduction to Statistics and Data Analysis Using StataÂ®: From Research Design to Final Report,"[Lisa Daniels,Nicholas W. Minot]",74.61,392,4.6,30,7.38 x 0.89 x 9.13 inches,1.57 pounds,English
+Tableau Prep Cookbook: Use Tableau Prep to clean combine and transform your data for analysis,[Hendrik Kleine],39.99,288,4.7,14,7.5 x 0.65 x 9.25 inches,1.1 pounds,English
+A Step Step Guide PLS-SEM Data Analysis Using SmartPLS 4 (Partial least squares structural equation modeling),[Yan Piaw Chua],40,329,,0,6 x 0.75 x 9 inches,1.25 pounds,English
+Network Security Through Data Analysis: From Data to Action,[Michael Collins],46.63,428,4.5,17,7.01 x 0.87 x 9.17 inches,1.64 pounds,English
+A Primer in Biological Data Analysis and Visualization Using R,[Gregg Hartvigsen],37.25,216,4.3,8,6.93 x 0.79 x 9.84 inches,15.2 ounces,English
+Behavioral Data Analysis with R and Python: Customer-Driven Data for Real Business Results,[Florent Buisson],37.74,360,4.4,13,7 x 0.75 x 9.19 inches,1.26 pounds,English
+Mathematical Foundations for Data Analysis (Springer Series in the Data Sciences),,69.99,304,,0,7.8 x 0.8 x 9.4 inches,1.51 pounds,English
+Statistical Rethinking: A Bayesian Course with Examples in R and STAN (Chapman & Hall/CRC Texts in Statistical Science),,75.07,594,4.8,285,7.4 x 0.9 x 10.1 inches,3.12 pounds,English
+An Introduction to Categorical Data Analysis 3rd Edition (Wiley Series in Probability and Statistics),[Agresti],99.99,394,4.5,45,7.2 x 1.1 x 10.1 inches,1.55 pounds,English
+Student Solutions Manual for Ott/Longneckers An Introduction to Statistical Methods and Data Analysis 7th,"[R. Lyman Ott,Micheal T. Longnecker]",84.95,256,3.5,5,8.4 x 0.6 x 10.7 inches,15.2 ounces,English
+Microsoft Excel Data Analysis and Business Modeling (Business Skills),[Wayne Winston],49.99,864,4.5,423,7.4 x 1.75 x 9 inches,3.17 pounds,English
+Text Analytics with Python: A Practitioners Guide to Natural Language Processing,[Dipanjan Sarkar],23.49,698,4.6,57,7.01 x 1.58 x 10 inches,2.89 pounds,English
+Essentials of Qualitative Meta-Analysis (Essentials of Qualitative Methods),,19.99,100,,0,,1.11 pounds,English
+Data Analysis Using Regression and Multilevel/Hierarchical Models,,64.5,648,4.4,150,6.97 x 1.38 x 9.96 inches,2.4 pounds,English
+Introduction to Data Analytics for Accounting (International edition) Textbook only,[Ryan A. Teeter Vernon Richardson Katie L. Terrell],50,,5,1,7.99 x 0.83 x 9.96 inches,2.12 pounds,English
+Statistical Analysis with Missing Data (Wiley Series in Probability and Statistics),"[Roderick J. A. Little,Donald B. Rubin]",86.25,462,4,12,6 x 1.23 x 9 inches,1.98 pounds,English
+Adverse Impact Analysis: Understanding Data Statistics and Risk,"[Scott B. Morris,Eric M. Dunleavy]",68.95,380,5,3,6 x 0.91 x 9 inches,1.2 pounds,English
+Hierarchical Modeling and Analysis for Spatial Data (Chapman & Hall/CRC Monographs on Statistics and Applied Probability),,88.5,584,4.1,8,7.2 x 1 x 10.1 inches,3.05 pounds,English
+Disrupting Data Governance: A Call to Action,[Laura B. Madsen],29.95,180,4.4,37,6 x 0.41 x 9 inches,9.2 ounces,English
+Python for Everybody: Exploring Data in Python 3,"[Dr. Charles Russell Severance,Sue Blumenberg et al.]",9.99,247,4.6,2467,7 x 0.56 x 10 inches,15.2 ounces,English
+ggplot2: Elegant Graphics for Data Analysis (Use R),,41.78,276,4.4,147,6.1 x 0.65 x 9.25 inches,9.3 pounds,English
+Survival Analysis: Techniques for Censored and Truncated Data (Statistics for Biology and Health),,119.99,554,4.2,22,8.27 x 1.26 x 10.98 inches,2.99 pounds,English
+Time Series (Chapman & Hall/CRC Texts in Statistical Science),"[Robert Shumway,David Stoffer]",54.68,272,4.1,16,6 x 0.83 x 9 inches,15.2 ounces,English
+SPSS For Beginners in 45 Minutes: A 2021 Quick Reference Guide to Research Methods Data Analysis and Interpretation of Statistical Data,[Bill Wesley],10.99,132,3.5,3,5.5 x 0.3 x 8.5 inches,8 ounces,English
+Crime Analysis with Crime Mapping,[Rachel Boba Santos],87.99,504,4.6,3,7 x 1.14 x 10 inches,1.81 pounds,English
+Applied Longitudinal Analysis,"[Garrett M. Fitzmaurice,Nan M. Laird et al.]",122.76,752,4.3,38,6 x 1.3 x 9.2 inches,2.54 pounds,English
+Epidemiology: Study Design and Data Analysis Third Edition (Chapman & Hall/CRC Texts in Statistical Science),,99.41,898,4.4,43,7 x 1.75 x 10 inches,3.75 pounds,English
+Analysis of Economic Data,[Gary Koop],52.59,272,4.1,15,6.4 x 0.7 x 9.4 inches,1.07 pounds,English
+In-Memory Analytics with Apache Arrow: Perform fast and efficient data analytics on both flat and hierarchical structured data,"[Matthew Topol,Wes McKinney]",44.99,392,5,8,7.5 x 0.92 x 9.25 inches,1.48 pounds,English
+Data Analysis from Scratch with Python: The Complete Beginners Guide for Machine Learning Techniques and A Step Step NLP using Python Guide To Expert (Including Programming Interview Questions),[Stephen Richard],10.99,169,4.4,55,6 x 0.39 x 9 inches,8.3 ounces,English
+Functional Data Analysis with R and MATLAB (Use R!),,69.51,214,4.7,10,6.1 x 0.51 x 9.25 inches,1.57 pounds,English
+Dyadic Data Analysis (Methodology in the Social Sciences),,62.52,458,4.4,24,6.25 x 1.25 x 9.25 inches,1.68 pounds,English
+The 4-Step Thematic Data Analysis With MAXQDA,[Dr. Michael Amanfi],60,141,4.8,39,8.5 x 0.34 x 11 inches,14.4 ounces,English
+Learning Spark: Lightning-Fast Data Analytics,"[Jules Damji,Brooke Wenig et al.]",55.37,397,4.7,154,7.25 x 1 x 9.25 inches,1.4 pounds,English
+Analytics: Data Science Data Analysis and Predictive Analytics for Business,[Daniel Covington],21.97,291,3.9,66,6 x 0.66 x 9 inches,13.9 ounces,English
+Practical Data Analysis with JMP Third Edition,[Robert Carver],54.99,442,3.5,3,7.5 x 1 x 9.25 inches,1.65 pounds,English
+Python for Finance: Mastering Data-Driven Finance,[Yves Hilpisch],53.65,720,4.6,256,7 x 1.6 x 9.1 inches,2.27 pounds,English
+Applied Spatial Data Analysis with R (Use R! 10),"[Roger S. Bivand,Edzer Pebesma et al.]",72.47,423,4.5,26,6.1 x 0.96 x 9.25 inches,1.42 pounds,English
+Hands-On Exploratory Data Analysis with R: Become an expert in exploratory data analysis using R packages,"[Radhika Datar,Harish Garg]",29.99,266,3.2,6,7.5 x 0.6 x 9.25 inches,1.02 pounds,English
+The Data Collection Toolkit: Everything You Need to Organize Manage and Monitor Classroom Data,[Cindy Golden],42.95,264,4.5,126,8.4 x 0.7 x 10.9 inches,1.75 pounds,English
+Qualitative Data Analysis with ATLAS.ti,[Susanne Friese],50,344,4.7,30,6.69 x 0.78 x 9.53 inches,1.3 pounds,English
+C++ Programming: Program Design Including Data Structures (MindTap Course List),[D. S. Malik],98.7,1728,4.4,162,7.75 x 2.5 x 9.25 inches,5.35 pounds,English
+Regression Analysis with Python,"[Luca Massaron,Alberto Boschetti]",46.99,312,4.1,10,7.5 x 0.71 x 9.25 inches,1.19 pounds,English
+Longitudinal Data Analysis for the Behavioral Sciences Using R,[Jeffrey D. Long],96.91,568,4.4,8,7 x 1.25 x 10 inches,2.49 pounds,English
+Practical SQL 2nd Edition: A Beginners Guide to Storytelling with Data,[Anthony DeBarros],27.99,427,4.7,60,7.08 x 1.09 x 9.32 inches,2.05 pounds,English
+Python Crash Course for Data Analysis: A Complete Beginner Guide for Python Coding NumPy Pandas and Data Visualization (Machine Learning & Data Science for Beginners),,17.99,174,4.1,41,6 x 0.4 x 9 inches,8.4 ounces,English
+Bayesian Modeling and Computation in Python (Chapman & Hall/CRC Texts in Statistical Science),,75.32,398,4.2,17,7 x 0.94 x 10 inches,2.08 pounds,English
+Random Data: Analysis and Measurement Procedures,"[Julius S. Bendat,Allan G. Piersol]",168.89,640,4.2,27,6.5 x 1.5 x 9.6 inches,2.03 pounds,English
+Data Envelopment Analysis: Let the Data Speak for Themselves,[Joe Zhu],49.99,182,4.6,7,6.14 x 0.43 x 9.21 inches,12.3 ounces,English
+Hands-On Financial Modeling with Microsoft Excel 2019: Build practical models for forecasting valuation trading and growth analysis using Excel 2019,[Shmuel Oluwa],33.29,292,4.2,110,7.5 x 0.66 x 9.25 inches,1.11 pounds,English
+Statistics for Machine Learning: Implement Statistical methods used in Machine Learning using Python (English Edition),[Himanshu Singh],26.95,278,4,19,7.5 x 0.63 x 9.25 inches,15.8 ounces,English
+Eco-Stats: Data Analysis in Ecology: From t-tests to Multivariate Abundances (Methods in Statistical Ecology),[David I Warton],139.99,445,,0,6.14 x 1 x 9.21 inches,1.76 pounds,English
+Thematic Analysis: A Practical Guide,"[Virginia Braun,Victoria Clarke]",45,376,4.9,191,6.69 x 0.78 x 9.61 inches,1.32 pounds,English
+Modes of Thinking for Qualitative Data Analysis,[Melissa Freeman],36.79,136,4.9,18,6 x 0.35 x 9 inches,8.1 ounces,English
+A Common-Sense Guide to Data Structures and Algorithms Second Edition: Level Up Your Core Programming Skills,[Jay Wengrow],39.71,508,4.7,514,7.5 x 1.25 x 9.25 inches,2.08 pounds,English
+Topological Data Analysis for Genomics and Evolution: Topology in Biology,"[Raul Rabadan,Andrew J. Blumberg]",43.03,324,4.5,31,7 x 1.25 x 10 inches,2.47 pounds,English
+Mathematical Statistics and Data Analysis (with CD Data Sets) (Available 2010 Titles Enhanced Web Assign),,168.7,688,3.8,110,7.56 x 1.32 x 9.36 inches,2.6 pounds,English
+Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R,,33.29,448,4.4,53,7.5 x 1.01 x 9.25 inches,1.68 pounds,English
+Exploratory Data Analysis with MATLABÂ® (Chapman & Hall/CRC Computer Science & Data Analysis),,55.37,590,4,3,,2.54 pounds,English
+Performing Data Analysis Using IBM SPSS,"[Lawrence S. Meyers,Glenn C. Gamst et al.]",82.99,736,4.5,30,8.6 x 1.54 x 11.05 inches,3.82 pounds,English
+Next Generation Data Management: Using Your Data Assets to Drive Mission Success,"[Dr Mark Brady,Barry Lyons et al.]",38,335,,0,6 x 0.76 x 9 inches,1.27 pounds,English
+Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence,"[Judith D. Singer,John B. Willett]",78.49,644,4.5,54,9.54 x 6.46 x 1.41 inches,2.39 pounds,English
+Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining (ACM Books),,95.95,532,4.3,13,7.5 x 1.07 x 9.25 inches,2.33 pounds,English
+Applied Survey Data Analysis (Chapman & Hall/CRC Statistics in the Social and Behavioral Sciences),,54.95,568,4.8,22,6.14 x 1.34 x 9.21 inches,3.31 pounds,English
+Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures,[Claus O. Wilke],51.49,390,4.6,180,7 x 0.7 x 9.1 inches,1.8 pounds,English
+Numerical Methods Using Java: For Data Science Analysis and Engineering,[Haksun Li PhD],32.92,1200,5,1,6.9 x 1.7 x 10.1 inches,5.45 pounds,English
+Data Analysis with Microsoft Power BI,[Brian Larson],43.15,544,3.8,12,7.2 x 1.3 x 9.1 inches,1.7 pounds,English
+Python: - The Bible- 3 Manuscripts in 1 book: -Python Programming For Beginners -Python Programming For Intermediates -Python Programming for Advanced (Your place to learn Python with ease),[Maurice J. Thompson],27.97,375,4.3,4033,6 x 0.85 x 9 inches,1.11 pounds,English
+Mastering Vim: Build a software development environment with Vim and Neovim,[Ruslan Osipov],44.99,330,4.8,27,7.5 x 0.75 x 9.25 inches,1.25 pounds,English
+Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools,[Nipun Jaswal],37.99,358,4.4,36,7.5 x 0.81 x 9.25 inches,1.36 pounds,English
+Python: 3 books in 1- Your complete guide to python programming with Python for Beginners Python Data Analysis and Python Machine Learning (Programming Languages for Beginners),[Brady Ellison],24.95,472,4.7,119,6 x 1.07 x 9 inches,1.63 pounds,English
+Pandas for Everyone: Python Data Analysis (Addison-Wesley Data & Analytics Series),,38.91,416,4.5,264,7 x 1 x 8.9 inches,1.5 pounds,English
+Real World Health Care Data Analysis: Causal Methods and Implementation Using SASÂ®: Causal Methods and Implementation Using SASÂ®,"[Douglas Faries,Xiang Zhang et al.]",84.95,436,4.2,5,8.25 x 0.99 x 11 inches,2.15 pounds,English
+Introduction to Functional Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,54.95,306,3.8,11,6.25 x 0.5 x 9.25 inches,1.25 pounds,English
+Adjustment Computations: Spatial Data Analysis,[Charles D. Ghilani],100.98,720,4.5,18,6.3 x 1.8 x 9 inches,2.35 pounds,English
+DATA ANALYTICS: Simple and Effective Tips and Tricks to Learn Data Analytics Effectively,[Benjamin Smith],19.99,167,5,2,6 x 0.38 x 9 inches,8.2 ounces,English
+Artificial Intelligence with Power BI: Take your data analytics skills to the next level leveraging the AI capabilities in Power BI,[Mary-Jo Diepeveen],46.99,348,4.4,10,7.5 x 0.79 x 9.25 inches,1.32 pounds,English
+Hands on Azure Data Studio: Microsofts Open Platform for Data Engineering and Analytics,[Jim Miller],9.99,142,4.3,5,6 x 0.32 x 9 inches,7.1 ounces,English
+Data Structures & Algorithm Analysis in C++,[Mark Weiss],177.32,664,4.2,91,1.1 x 7.5 x 9.2 inches,2.54 pounds,English
+The Esri Guide to GIS Analysis Volume 2: Spatial Measurements and Statistics,,45.49,288,4.7,15,7.5 x 0.65 x 9.25 inches,1.45 pounds,English
+The Handbook for Collaborative Common Assessments: Tools for Design Delivery and Data Analysis (Practical Measures for Improving Your Collaborative Common Assessment Process),[Cassandra Erkens],39.95,264,4.8,7,8.75 x 0.75 x 11.25 inches,1.65 pounds,English
+Learn Microsoft PowerApps: Build customized business applications without writing any code,[Matthew Weston],39.89,560,4.2,164,7.5 x 1.27 x 9.25 inches,2.09 pounds,English
+Software Architecture Patterns for Serverless Systems: Architecting for innovation with events autonomous services and micro frontends,"[John Gilbert,Ed Price]",45,436,4.8,21,7.5 x 0.99 x 9.25 inches,1.64 pounds,English
+Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars LEGO and Rubber Ducks,[Will Kurt],33.2,256,4.6,462,7 x 0.66 x 9.25 inches,1.1 pounds,English
+The Data Revolution: A Critical Analysis of Big Data Open Data and Data Infrastructures,[Rob Kitchin],42,376,5,2,6.69 x 0.85 x 9.53 inches,1.46 pounds,English
+Data Structures and Algorithm Analysis in Java,[Mark Weiss],132.98,648,4.4,97,7.75 x 1.65 x 9.4 inches,2.12 pounds,English
+Azure Synapse Analytics Cookbook: Implement a limitless analytical platform using effective recipes for Azure Synapse,"[Gaurav Agarwal,Meenakshi Muralidharan et al.]",41.99,238,4.3,8,7.5 x 0.54 x 9.25 inches,14.7 ounces,English
+CompTIA Data+ Study Guide: Exam DA0-001,"[Mike Chapple,Sharif Nijim]",34.18,368,4.7,31,7.32 x 0.87 x 9.13 inches,1.35 pounds,English
+The Science of Deep Learning,[Iddo Drori],59.99,450,,0,6.89 x 0.79 x 9.84 inches,1.8 pounds,English
+Inside Deep Learning: Math Algorithms Models,[Edward Raff],45.2,600,5,6,7.38 x 1.7 x 9.25 inches,2.7 pounds,English
+Mathematical Aspects of Deep Learning,"[Philipp Grohs,Gitta Kutyniok]",89.99,485,,0,,1.74 pounds,English
+Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD,"[Jeremy Howard,Sylvain Gugger]",36.99,624,4.8,418,6.9 x 1.1 x 9.1 inches,2.05 pounds,English
+Practical Deep Learning: A Python-Based Introduction,[Ronald T. Kneusel],36.54,464,4.8,35,7.06 x 1.13 x 9.25 inches,1.94 pounds,English
+Deep Learning with PyTorch: Build train and tune neural networks using Python tools,"[Eli Stevens,Luca Antiga et al.]",36.26,520,4.4,93,7.38 x 1 x 9.25 inches,1.98 pounds,English
+Deep Learning from Scratch: Building with Python from First Principles,[Seth Weidman],38.99,252,4.4,79,7 x 0.53 x 9.19 inches,14.4 ounces,English
+Learning Deep Learning: Theory and Practice of Neural Networks Computer Vision Natural Language Processing and Transformers Using TensorFlow,[Magnus Ekman],53.23,752,4.7,66,7.3 x 1.1 x 9 inches,2.43 pounds,English
+Deep Learning: A Visual Approach,[Andrew Glassner],56.99,776,4.7,90,7.06 x 1.34 x 9.25 inches,3.7 pounds,English
+Deep Learning with Python Second Edition,[Francois Chollet],37.23,504,4.6,148,7.38 x 1.4 x 9.25 inches,2.3 pounds,English
+Deep Learning (The MIT Press Essential Knowledge series),,13.99,296,4.5,305,5.06 x 0.74 x 6.94 inches,9.3 ounces,English
+Deep Learning (Adaptive Computation and Machine Learning series),,54.25,800,4.3,1862,9.1 x 7.2 x 1.1 inches,2.54 pounds,English
+Deep Learning Illustrated: A Visual Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series),,44.39,416,4.5,189,7 x 0.95 x 9.05 inches,1.28 pounds,English
+Deep Learning Architectures: A Mathematical Approach (Springer Series in the Data Sciences),,58.99,790,4.2,14,6.14 x 1.57 x 9.21 inches,3.26 pounds,English
+Foundations of Deep Reinforcement Learning: Theory and Practice in Python (Addison-Wesley Data & Analytics Series),,45.59,416,4.4,82,6.93 x 0.71 x 9.21 inches,1.32 pounds,English
+Dive Into Deep Learning: Tools for Engagement,"[Joanne Quinn,Joanne J. McEachen et al.]",38.95,296,4.7,36,8.4 x 0.7 x 10.9 inches,1.79 pounds,English
+Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms,"[Nithin Buduma,Joe Papa et al.]",50.99,387,,0,7 x 0.75 x 9.25 inches,1.4 pounds,English
+Deep Learning with TensorFlow 2 and Keras: Regression ConvNets GANs RNNs NLP and more with TensorFlow 2 and the Keras API 2nd Edition,"[Antonio Gulli,Amita Kapoor et al.]",33.21,646,4.5,116,7.5 x 1.46 x 9.25 inches,2.41 pounds,English
+Deep Learning with JavaScript: Neural networks in TensorFlow.js,"[Shanqing Cai,Stan Bileschi et al.]",43.49,560,4.8,28,7.38 x 1.1 x 9.25 inches,2.16 pounds,English
+Deep Learning in Science,[Pierre Baldi],47.55,450,4.7,4,7.8 x 0.8 x 9.8 inches,2.03 pounds,English
+Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques,"[Sumit Ranjan,Dr. S. Senthamilarasu]",44.99,332,3.8,23,7.5 x 0.75 x 9.25 inches,1.26 pounds,English
+Deep Learning for Vision Systems,[Mohamed Elgendy],39.49,480,4.8,53,7.38 x 1 x 9.25 inches,1.94 pounds,English
+Deep Reinforcement Learning Hands-On: Apply modern RL methods to practical problems of chatbots robotics discrete optimization web automation and more 2nd Edition,[Maxim Lapan],54.99,826,4.5,143,7.5 x 1.87 x 9.25 inches,3.07 pounds,English
+Modern Computer Vision with PyTorch: Explore deep learning concepts and implement over 50 real-world image applications,"[V Kishore Ayyadevara,Yeshwanth Reddy]",48.84,824,4.6,51,7.5 x 1.86 x 9.25 inches,3.06 pounds,English
+Synthetic Data for Deep Learning: Generate Synthetic Data for Decision Making and Applications with Python and R,"[Necmi GÃ¼rsakal,Sadullah Ã‡elik et al.]",44.99,250,,0,,1.11 pounds,English
+Geometry of Deep Learning: A Signal Processing Perspective (Mathematics in Industry 37),[Jong Chul Ye],66.27,346,3.6,6,6.14 x 0.81 x 9.21 inches,1.52 pounds,English
+Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python,"[Sebastian Raschka,Yuxi (Hayden) Liu et al.]",46.79,770,4.7,135,7.5 x 1.74 x 9.25 inches,2.86 pounds,English
+Production-Ready Applied Deep Learning: Learn how to construct and deploy complex models in PyTorch and TensorFlow deep learning frameworks,"[Tomasz Palczewski,Jaejun (Brandon) Lee et al.]",47.49,322,,0,7.5 x 0.73 x 9.25 inches,1.22 pounds,English
+Grokking Deep Reinforcement Learning,[Miguel Morales],49.99,472,4.7,47,7.38 x 1 x 9.25 inches,1.94 pounds,English
+Deep Learning for the Life Sciences: Applying Deep Learning to Genomics Microscopy Drug Discovery and More,"[Bharath Ramsundar,Peter Eastman et al.]",48.49,236,4.2,48,7 x 0.5 x 9.19 inches,12.8 ounces,English
+Deep Learning in Production,[Sergios Karagiannakos],29.99,223,4.7,12,7.5 x 0.53 x 9.25 inches,15.2 ounces,English
+Math for Deep Learning: What You Need to Know to Understand Neural Networks,[Ronald T. Kneusel],36.49,344,4.5,22,7.06 x 0.79 x 9.19 inches,13 ounces,English
+Introduction to Deep Learning (The MIT Press),[Eugene Charniak],35,192,4,32,9.1 x 7.1 x 0.8 inches,1.2 pounds,English
+The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks,"[Daniel A. Roberts,Sho Yaida et al.]",75.99,472,4.7,10,7 x 1 x 10 inches,1.98 pounds,English
+Practical Deep Learning for Cloud Mobile and Edge: Real-World AI & Computer-Vision Projects Using Python Keras & TensorFlow,"[Anirudh Koul,Siddha Ganju et al.]",55.43,620,4.6,110,7 x 1.68 x 9.19 inches,2.15 pounds,English
+Deep Learning: Engage the World Change the World,"[Michael Fullan,Joanne Quinn et al.]",32.33,208,4.5,66,7 x 0.47 x 10 inches,15.5 ounces,English
+Grokking Deep Learning,[Andrew Trask],39.49,336,4.4,138,7.38 x 0.7 x 9.25 inches,1.32 pounds,English
+Practical Deep Learning at Scale with MLflow: Bridge the gap between offline experimentation and online production,"[Yong Liu,Dr. Matei Zaharia]",44.99,288,4.8,8,7.5 x 0.65 x 9.25 inches,1.1 pounds,English
+Deep Learning For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,368,4.5,33,7.4 x 0.9 x 9.1 inches,1.45 pounds,English
+Deep Learning with Python,[Francois Chollet],32.49,384,4.6,1349,7.38 x 0.8 x 9.25 inches,1.59 pounds,English
+Deep Generative Modeling,[Jakub M. Tomczak],70,215,5,1,6.14 x 0.56 x 9.21 inches,1.09 pounds,English
+Generative Deep Learning: Teaching Machines to Paint Write Compose and Play,[David Foster],46.99,330,4.5,189,7.01 x 0.69 x 9.17 inches,1.15 pounds,English
+Artificial Intelligence Example: Acquire advanced AI machine learning and deep learning design skills 2nd Edition,[Denis Rothman],39.99,578,4.2,30,7.5 x 1.31 x 9.25 inches,2.16 pounds,English
+Deep Learning for NLP and Speech Recognition,"[Uday Kamath,John Liu et al.]",97.31,649,4.6,49,7 x 1.38 x 10 inches,3.12 pounds,English
+Deep Neural Evolution: Deep Learning with Evolutionary Computation (Natural Computing Series),,66.59,452,5,1,6.1 x 1.07 x 9.25 inches,1.52 pounds,English
+Hands-On Python Natural Language Processing: Explore tools and techniques to analyze and process text with a view to building real-world NLP applications,"[Aman Kedia,Mayank Rasu]",39.99,316,4.6,22,7.5 x 0.72 x 9.25 inches,1.2 pounds,English
+DEEP LEARNING WITH MATLAB,[Perez],25.99,247,,0,8.27 x 0.56 x 11.69 inches,1.64 pounds,English
+Guide to Deep Learning Basics: Logical Historical and Philosophical Perspectives,[Sandro Skansi],14.59,148,,0,6.1 x 0.34 x 9.25 inches,1 pounds,English
+Building Machine Learning and Deep Learning Models on Google Cloud Platform: A Comprehensive Guide for Beginners,[Ekaba Bisong],28.02,738,4.6,9,6.75 x 1.5 x 10 inches,3.05 pounds,English
+Deep Learning with R,"[Francois Chollet,J. J. Allaire]",46.99,360,4.5,100,7.38 x 0.8 x 9.25 inches,1.5 pounds,English
+Deep Learning for Natural Language Processing,[Stephan Raaijmakers],49.99,325,,0,7.38 x 0.73 x 9.25 inches,1.07 pounds,English
+Python Machine Learning for Beginners: Learning from scratch NumPy Pandas Matplotlib Seaborn Scikitlearn and TensorFlow for Machine Learning and ... Learning & Data Science for Beginners),,19.99,304,4.5,55,6 x 0.69 x 9 inches,14.6 ounces,English
+Adversarial Deep Learning in Cybersecurity: Attack Taxonomies Defence Mechanisms and Learning Theories,"[Aneesh Sreevallabh Chivukula,Xinghao Yang et al.]",199.99,260,,0,,1.74 pounds,English
+Hands-On Machine Learning with Scikit-Learn Keras and TensorFlow: Concepts Tools and Techniques to Build Intelligent Systems,[AurÃ©lien GÃ©ron],75.99,850,,0,,1.11 pounds,English
+Black Hat Python 2nd Edition: Python Programming for Hackers and Pentesters,"[Justin Seitz,Tim Arnold]",37.49,216,4.7,342,6.9 x 0.7 x 9.1 inches,14.4 ounces,English
+Modern Deep Learning for Tabular Data: Novel Approaches to Common Modeling Problems,"[Andre Ye,Andy Wang]",49.99,839,,0,,1.11 pounds,English
+Probabilistic Deep Learning: With Python Keras and TensorFlow Probability,"[Oliver Duerr,Beate Sick et al.]",49.99,296,4.2,15,7.38 x 0.6 x 9.25 inches,1.23 pounds,English
+High-Dimensional Data Analysis with Low-Dimensional Models: Principles Computation and Applications,"[John Wright,Yi Ma]",75.99,650,4.8,12,6.75 x 1.5 x 9.75 inches,3.15 pounds,English
+Transformers for Natural Language Processing: Build train and fine-tune deep neural network architectures for NLP with Python PyTorch TensorFlow BERT and GPT-3 2nd Edition,"[Denis Rothman,Antonio Gulli]",39.89,564,4.7,32,7.5 x 1.28 x 9.25 inches,2.11 pounds,English
+Memorable teaching: Leveraging memory to build deep and durable learning in the classroom (High Impact Teaching series),[Peps Mccrea],14.95,112,4.6,192,5.4 x 0.2 x 8 inches,3.2 ounces,English
+Deep Reinforcement Learning in Action,"[Alexander Zai,Brandon Brown]",49.2,325,4.2,16,7.38 x 0.8 x 9.25 inches,1.56 pounds,English
+Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6,[Ben Auffarth],39.99,468,4.5,24,7.5 x 1.06 x 9.25 inches,1.76 pounds,English
+Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning,[Soon Yau Cheong],40.59,306,4.8,14,7.5 x 0.69 x 9.25 inches,1.16 pounds,English
+Modern Deep Learning Design and Application Development: Versatile Tools to Solve Deep Learning Problems,[Andre Ye],49.44,472,5,1,7.01 x 1.07 x 10 inches,1.96 pounds,English
+Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python,"[Antonio Gulli,Sujit Pal]",51.99,318,3.5,52,7.5 x 0.72 x 9.25 inches,1.21 pounds,English
+Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems,[Eyal Wirsansky],41.99,346,4.6,53,7.5 x 0.78 x 9.25 inches,1.31 pounds,English
+Engineering Deep Learning Systems,"[Chi Wang,Donald Szeto]",59.99,325,,0,7.38 x 0.81 x 9.25 inches,13.6 ounces,English
+Evolutionary Deep Learning: Genetic algorithms and neural networks,[Michael Lanham],59.99,350,,0,7.38 x 0.88 x 9.25 inches,14.7 ounces,English
+Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python PyTorch TensorFlow BERT RoBERTa and more,[Denis Rothman],40.59,384,4.2,95,7.5 x 0.87 x 9.25 inches,1.45 pounds,English
+Introduction to Deep Learning for Healthcare,"[Cao Xiao,Jimeng Sun]",55.49,243,4.1,6,6.14 x 0.63 x 9.21 inches,1.18 pounds,English
+Deep Learning and Physics (Mathematical Physics Studies),,99.99,224,2,1,6.1 x 0.53 x 9.25 inches,12.3 ounces,English
+R Deep Learning Essentials: A step--step guide to building deep learning models using TensorFlow Keras and MXNet 2nd Edition,"[Mark Hodnett,Joshua F. Wiley]",41.99,378,4.1,8,7.5 x 0.86 x 9.25 inches,1.43 pounds,English
+Implement NLP use-cases using BERT: Explore the Implementation of NLP Tasks Using the Deep Learning Framework and Python (English Edition),[Amandeep],29.95,164,3,2,6 x 0.37 x 9 inches,8.1 ounces,English
+Machine Learning at Scale with H2O: A practical guide to building and deploying machine learning models on enterprise systems,"[Gregory Keys,David Whiting]",39.99,396,5,2,7.5 x 0.9 x 9.25 inches,1.49 pounds,English
+Python: The Complete Crash Course to Learn Python in One Week Machine Learning and Deep Learning with Hands-On Exercises,[frad willson],14.99,229,,0,6 x 0.52 x 9 inches,14.4 ounces,English
+Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python,[Santanu Pattanayak],69.99,419,4.1,32,7.01 x 0.96 x 10 inches,17.45 pounds,English
+ARTIFICIAL INTELLIGENCE WITH MATLAB. DEEP LEARNING ARCHITECTURES,[Perez],25.99,199,,0,8.27 x 0.45 x 11.69 inches,1.35 pounds,English
+GANs in Action: Deep learning with Generative Adversarial Networks,"[Jakub Langr,Vladimir Bok]",37.99,276,4.2,33,7.38 x 0.4 x 9.25 inches,1.01 pounds,English
+From Curiosity to Deep Learning: Personal Digital Inquiry in Grades K-5,"[Julie Coiro,Elizabeth Dobler et al.]",33.06,256,4.6,10,8 x 0.7 x 9.9 inches,1.37 pounds,English
+Deep Learning Applications of Short-range Radars,"[Avik Santra,Souvik Hazra]",179,350,5,1,6.2 x 1 x 9.2 inches,1.59 pounds,English
+Deep Learning Cookbook: Practical Recipes to Get Started Quickly,[Douwe Osinga],37.3,251,4.5,17,7 x 0.53 x 9.19 inches,1 pounds,English
+Deep Reinforcement Learning with Python: With PyTorch TensorFlow and OpenAI Gym,[Nimish Sanghi],36.49,404,4.3,10,7.01 x 0.91 x 10 inches,1.69 pounds,English
+Empowering Young Children,[Wendy Ostroff],34.95,170,,0,5.98 x 0.39 x 9.02 inches,11 ounces,English
+Deep Discourse: A Framework for Cultivating Student-Led Discussions -Use Conversation to Raise Student Learning Motivation and Engagement in K-12 Classrooms,"[Sandi Novak,Cara Slattery]",36.95,184,5,4,8.5 x 0.5 x 10.75 inches,1.15 pounds,English
+Purposeful Play: A Teachers Guide to Igniting Deep and Joyful Learning Across the Day,"[Kristine Mraz,Alison Porcelli et al.]",28.34,184,4.7,348,7.4 x 0.44 x 9.3 inches,12.8 ounces,English
+Generative AI with Python and TensorFlow 2: Create images text and music with VAEs GANs LSTMs Transformer models,"[Joseph Babcock,Raghav Bali]",37.99,488,4.3,22,7.5 x 1.1 x 9.25 inches,1.83 pounds,English
+DEEP LEARNING TOOLS: NEURAL NETWORKS USING MATLAB,[Perez],25.99,205,,0,8.27 x 0.47 x 11.69 inches,1.38 pounds,English
+Embedded Deep Learning: Algorithms Architectures and Circuits for Always-on Neural Network Processing,"[Bert Moons,Daniel Bankman et al.]",88.12,222,5,1,6.1 x 0.51 x 9.25 inches,1 pounds,English
+Learning Unix for OS X: Going Deep With the Terminal and Shell,[Dave Taylor],24.99,238,4.4,77,7 x 0.54 x 9.19 inches,14.5 ounces,English
+Hands-On Natural Language Processing with PyTorch 1.x: Build smart AI-driven linguistic applications using deep learning and NLP techniques,[Thomas Dop],41.99,276,3.7,5,7.5 x 0.63 x 9.25 inches,1.06 pounds,English
+Python Deep Learning Projects: 9 projects demystifying neural network and deep learning models for building intelligent systems,"[Matthew Lamons,Rahul Kumar et al.]",46.99,472,3.9,5,7.5 x 1.07 x 9.25 inches,1.77 pounds,English
+Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow,"[Hisham El-Amir,Mahmoud Hamdy]",15.43,580,2,1,6.1 x 1.31 x 9.25 inches,1.94 pounds,English
+Machine Learning for Cybersecurity: Innovative Deep Learning Solutions (SpringerBriefs in Computer Science),[Marwan Omar],54.99,56,,0,,1.11 pounds,English
+Beginning Deep Learning with TensorFlow: Work with Keras MNIST Data Sets and Advanced Neural Networks,"[Liangqu Long,Xiangming Zeng]",28.98,740,,0,6.1 x 1.67 x 9.25 inches,2.46 pounds,English
+Cultivating Curiosity in K-12 Classrooms: How to Promote and Sustain Deep Learning,[Wendy L. Ostroff],21.9,176,4.5,48,6.9 x 0.6 x 8.9 inches,8.8 ounces,English
+Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry,[Isaiah Hull],48.04,384,3.3,3,6.1 x 0.91 x 9.25 inches,1.29 pounds,English
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python 2nd Edition,[Stefan Jansen],44.99,820,4.5,243,7.5 x 1.85 x 9.25 inches,3.05 pounds,English
+The Deep Learning AI Playbook: Strategy for Disruptive Artificial Intelligence,[Carlos E Perez],29,367,3.7,12,6 x 0.92 x 9 inches,1.19 pounds,English
+Risk Modeling: Practical Applications of Artificial Intelligence Machine Learning and Deep Learning (Wiley and SAS Business Series),"[Terisa Roberts,Stephen J. Tonna]",47.92,208,,0,6.2 x 0.9 x 9.1 inches,13.6 ounces,English
+AI and Machine Learning for Coders: A Programmers Guide to Artificial Intelligence,[Laurence Moroney],38.49,392,4.7,127,6.93 x 1.18 x 8.98 inches,1.9 pounds,English
+Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection,"[David Millan Escriva,Prateek Joshi et al.]",49.99,538,4.1,31,7.5 x 1.22 x 9.25 inches,2.01 pounds,English
+Advanced Deep Learning with TensorFlow 2 and Keras: Apply DL GANs VAEs deep RL unsupervised learning object detection and segmentation and more 2nd Edition,[Rowel Atienza],39.99,512,4.5,62,7.5 x 1.16 x 9.25 inches,1.92 pounds,English
+Deep Learning for Computer Vision with SASÂ®: An Introduction,[Robert Blanchard],25.95,150,,0,7.5 x 0.34 x 9.25 inches,9.5 ounces,English
+Understanding Deep Learning: Application in Rare Event Prediction (Student Version),[Chitta Ranjan Ph.D.],30,426,,0,6.69 x 0.96 x 9.61 inches,1.49 pounds,English
+Deep Learning on Graphs,"[Yao Ma,Jiliang Tang]",45.91,400,4.7,8,6.5 x 1 x 9.5 inches,1.34 pounds,English
+Data Orchestration in Deep Learning Accelerators (Synthesis Lectures on Computer Architecture),"[Tushar Krishna,Hyoukjun Kwon et al.]",73.76,164,4.2,3,7.52 x 0.44 x 9.25 inches,1.09 pounds,English
+Deep Reinforcement Learning,[Aske Plaat],58.31,421,,0,6.14 x 0.86 x 9.21 inches,1.3 pounds,English
+Efficient Processing of Deep Neural Networks (Synthesis Lectures on Computer Architecture),"[Vivienne Sze,Yu-Hsin Chen et al.]",86.35,342,4.5,14,7.5 x 0.71 x 9.25 inches,11.7 ounces,English
+Computer Vision: Algorithms and Applications (Texts in Computer Science),[Richard Szeliski],68.1,947,4.3,18,8.35 x 1.57 x 11.18 inches,6.2 pounds,English
+Applied Software Development With Python & Machine Learning Wearable & Wireless Systems For Movement Disorder Treatment Via Deep Brain Stimulation,"[Robert Lemoyne,Timothy Mastroianni]",79.23,248,,0,6 x 0.75 x 9 inches,1.11 pounds,English
+Data Scientist Pocket Guide: Over 600 Concepts Terminologies and Processes of Machine Learning and Deep Learning Assembled Together (English Edition),[Mohamed Sabri],29.95,308,4.7,4,7.5 x 0.7 x 9.25 inches,1.19 pounds,English
+Deep Learning with fastai Cookbook: Leverage the easy-to-use fastai framework to unlock the power of deep learning,[Mark Ryan],44.99,340,4.6,13,7.5 x 0.77 x 9.25 inches,1.29 pounds,English
+Learning TensorFlow: A Guide to Building Deep Learning Systems,"[Tom Hope,Yehezkel S. Resheff et al.]",35.75,242,3.9,62,7.01 x 0.51 x 9.17 inches,1.47 pounds,English
+Machine and Deep Learning in Oncology Medical Physics and Radiology,"[Issam El Naqa,Martin J. Murphy]",174.64,529,,0,6.4 x 1.1 x 9.46 inches,2.44 pounds,English
+Deep Learning for Physical Scientists: Accelerating Research with Machine Learning,"[Edward O. Pyzer-Knapp,Matthew Benatan]",69.1,208,5,2,6 x 0.66 x 9 inches,15 ounces,English
+Deep Learning and the Game of Go,"[Max Pumperla,Kevin Ferguson]",50.58,384,4.4,48,7.38 x 0.9 x 9.25 inches,1.63 pounds,English
+Automated Machine Learning with AutoKeras: Deep learning made accessible for everyone with just few lines of coding,[Luis Sobrecueva],41.99,194,4.7,11,7.5 x 0.44 x 9.25 inches,12.2 ounces,English
+Deep Learning with TensorFlow: Explore neural networks and build intelligent systems with Python 2nd Edition,"[Giancarlo Zaccone,Md. Rezaul Karim]",36.11,484,3.2,7,7.5 x 1.09 x 9.25 inches,1.81 pounds,English
+Advances in Electromagnetics Empowered Artificial Intelligence and Deep Learning (IEEE Press Series on Electromagnetic Wave Theory),"[Sawyer D. Campbell,Douglas H. Werner]",165,,,0,,1.47 pounds,English
+Practical MATLAB Deep Learning: A Projects-Based Approach,"[Michael Paluszek,Stephanie Thomas et al.]",38.34,348,,0,7 x 0.73 x 10 inches,1.35 pounds,English
+AI Crash Course: A fun and hands-on introduction to machine learning reinforcement learning deep learning and artificial intelligence with Python,[Hadelin de Ponteves],29.99,360,4.2,81,7.5 x 0.82 x 9.25 inches,1.36 pounds,English
+Deep Learning In Biology And Medicine,"[Davide Bacciu,Paulo J G Lisboa et al.]",97.65,332,,0,6 x 0.97 x 9 inches,1.35 pounds,English
+Autonomous Robotics and Deep Learning (SpringerBriefs in Computer Science),,69.99,74,5,1,6.1 x 0.18 x 9.25 inches,2.86 pounds,English
+Hands-On Music Generation with Magenta: Explore the role of deep learning in music generation and assisted music composition,[Alexandre DuBreuil],41.99,360,4.5,8,7.5 x 0.82 x 9.25 inches,1.36 pounds,English
+Artificial Intelligence Machine Learning and Deep Learning,[Oswald Campesato],59.95,300,4.4,3,6.75 x 0.75 x 8.75 inches,1.15 pounds,English
+Culture in School Learning: Revealing the Deep Meaning,[Etta R. Hollins],48.81,252,4.4,6,6 x 0.61 x 9 inches,13.6 ounces,English
+Practical MATLAB Deep Learning: A Project-Based Approach,"[Michael Paluszek,Stephanie Thomas]",20.49,267,3.7,14,7.01 x 0.63 x 10 inches,1.14 pounds,English
+Graph-Powered Machine Learning,[Alessandro Nego],42.99,496,4.4,9,7.38 x 0.6 x 9.25 inches,1.9 pounds,English
+Mastering Computer Vision with TensorFlow 2.x: Build advanced computer vision applications using machine learning and deep learning techniques,[Krishnendu Kar],44.99,430,3.9,15,7.5 x 0.97 x 9.25 inches,1.62 pounds,English
+DEEP LEARNING WITH PYTHON: 3 in 1- Beginners Guide+ Simple and Effective Tips and Tricks+ Advanced Guide to Learn Deep Learning with Python,[Benjamin Smith],49.99,547,3.5,2,6 x 1.24 x 9 inches,1.6 pounds,English
+Practical Machine Learning with H2O: Powerful Scalable Techniques for Deep Learning and AI,[Darren Cook],33.09,300,4.2,25,7 x 0.68 x 9.19 inches,1.14 pounds,English
+Deep Learning Approaches for Security Threats in IoT Environments,"[Mohamed Abdel-Basset,Nour Moustafa et al.]",140,384,,0,,1.47 pounds,English
+Artificial Intelligence and Deep Learning in Pathology,[Stanley Cohen MD],82.3,288,4.1,10,7.5 x 1 x 9.25 inches,1.3 pounds,English
+Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples,[Rishal Hurbans],55.95,392,4.5,23,7.38 x 0.8 x 9.25 inches,1.63 pounds,English
+Codeless Deep Learning with KNIME: Build train and deploy various deep neural network architectures using KNIME Analytics Platform,"[Kathrin Melcher,Rosaria Silipo]",49.99,384,4.4,26,7.5 x 0.87 x 9.25 inches,1.45 pounds,English
+Deep Learning Applications (Advances in Intelligent Systems and Computing 1098),,104.51,188,,0,6.1 x 0.45 x 9.25 inches,1 pounds,English
+Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch,"[Nikhil Ketkar,Jojo Moolayil]",32.99,324,4,2,6.1 x 0.73 x 9.25 inches,1.1 pounds,English
+Artificial Intelligence in Healthcare: AI Machine Learning and Deep and Intelligent Medicine Simplified for Everyone,[Dr Parag Suresh Mahajan MD],29.99,590,4.7,147,6 x 1.33 x 9 inches,1.72 pounds,English
+Getting started with Deep Learning for Natural Language Processing: Learn how to build NLP applications with Deep Learning (English Edition),[Sunil Patel],29.95,404,4.6,9,7.5 x 0.91 x 9.25 inches,1.39 pounds,English
+Neural Networks and Deep Learning: A Textbook,[Charu C. Aggarwal],49,520,4.5,164,7 x 1.13 x 10 inches,2.63 pounds,English
+Deep Learning with PyTorch: A practical approach to building neural network models using PyTorch,[Vishnu Subramanian],31.75,262,3.5,20,7.5 x 0.59 x 9.25 inches,1 pounds,English
+Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning,,45.39,366,4.5,172,7.01 x 0.76 x 9.17 inches,1.35 pounds,English
+Deep Learning with R Second Edition,"[Francois Chollet,Tomasz Kalinowski et al.]",59.99,568,4.6,148,7.38 x 1.3 x 9.25 inches,1.86 pounds,English
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications,[Chip Huyen],43.49,386,4.7,118,7 x 0.75 x 9 inches,1.36 pounds,English
+Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing Climate Science and Geosciences,"[Gustau Camps-Valls,Devis Tuia et al.]",106.99,432,5,1,6.69 x 0.59 x 9.61 inches,1.5 pounds,English
+Math and Architectures of Deep Learning,[Krishnendu Chaudhury],49.99,535,,0,7.38 x 1.13 x 9.25 inches,1.18 pounds,English
+Programming Machine Learning: From Coding to Deep Learning,[Paolo Perrotta],33.49,342,4.8,42,7.5 x 0.71 x 9.25 inches,1.41 pounds,English
+Beginning Anomaly Detection Using Python-Based Deep Learning: With Keras and PyTorch,"[Sridhar Alla,Suman Kalyan Adari]",25.49,432,4.3,21,7.01 x 0.98 x 10 inches,1.8 pounds,English
+Deep Reinforcement Learning: Fundamentals Research and Applications,"[Hao Dong,Zihan Ding et al.]",137.42,541,4.5,2,7.2 x 1 x 8.8 inches,2.37 pounds,English
+Deep Learning for Personalised Healthcare Services (Issn 7),"[Jain,Vishal et al.]",103.29,246,,0,6.69 x 0.63 x 9.61 inches,1.28 pounds,English
+Deep Learning in a Disorienting World,[Jon F. Wergin],35.99,210,5,7,5.9 x 0.4 x 8.9 inches,10.2 ounces,English
+Artificial Intelligence Engines: A Tutorial Introduction to the Mathematics of Deep Learning,[James V Stone],23.99,216,4.3,52,6 x 0.49 x 9 inches,10.5 ounces,English
+Hands-On Machine Learning with C++: Build train and deploy end-to-end machine learning and deep learning pipelines,[Kirill Kolodiazhnyi],49.99,530,4.3,33,7.5 x 1.2 x 9.25 inches,1.98 pounds,English
+Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation Model Building and MLOps,"[Valliappa Lakshmanan,Sara Robinson et al.]",36.99,408,4.6,243,9.06 x 0.94 x 6.85 inches,1.45 pounds,English
+Deep Learning with Hadoop,[Dipayan Dev],41.99,206,4.7,5,7.5 x 0.47 x 9.25 inches,12.8 ounces,English
+Hands-On Mathematics for Deep Learning: Build a solid mathematical foundation for training efficient deep neural networks,[Jay Dawani],39.99,364,4,43,7.5 x 0.82 x 9.25 inches,1.38 pounds,English
+Mastering OpenCV 4 with Python: A practical guide covering topics from image processing augmented reality to deep learning with OpenCV 4 and Python 3.7,[Alberto Fernandez Villan],44.99,532,4,33,7.5 x 1.2 x 9.25 inches,1.99 pounds,English
+Deep Learning with PyTorch Lightning: Swiftly build high-performance Artificial Intelligence (AI) models using Python,[Kunal Sawarkar],44.64,366,4.8,11,7.5 x 0.83 x 9.25 inches,1.38 pounds,English
+Advanced Deep Learning with Python: Design and implement advanced next-generation AI solutions using TensorFlow and PyTorch,[Ivan Vasilev],44.99,468,4.6,30,7.5 x 1.06 x 9.25 inches,1.76 pounds,English
+Differentiation and the Brain: How Neuroscience Supports the Learner-Friendly Classroom (Use Brain-Based Learning and Neuroeducation to Differentiate Instruction),"[David A. Sousa,Carol Ann Tomlinson]",31.38,240,4.7,168,8.5 x 0.75 x 10.75 inches,1.55 pounds,English
+Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications,[Ian Pointer],34.49,220,4.1,55,7 x 0.46 x 9.19 inches,12.6 ounces,English
+MATLAB Deep Learning: With Machine Learning Neural Networks and Artificial Intelligence,[Phil Kim],37.09,168,4.2,37,6.1 x 0.39 x 9.25 inches,5.95 pounds,English
+Deep Learning for Radar and Communications Automatic Target Recognition,"[Uttam K. Majumder,Erik P. Blasch et al.]",179,290,,0,7.2 x 0.9 x 9.8 inches,1.85 pounds,English
+Deep Learning: A Practitioners Approach,"[Josh Patterson,Adam Gibson]",23.49,530,4.2,73,7 x 1.07 x 9.19 inches,1.47 pounds,English
+Synthetic Data for Deep Learning (Springer Optimization and Its Applications 174),,169.99,360,3.5,2,6.14 x 0.81 x 9.21 inches,1.55 pounds,English
+Deep Reinforcement Learning with Python: Master classic RL deep RL distributional RL inverse RL and more with OpenAI Gym and TensorFlow 2nd Edition,[Sudharsan Ravichandiran],39.99,760,4.4,50,7.5 x 1.72 x 9.25 inches,2.82 pounds,English
+Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow,"[Sebastian Raschka,Vahid Mirjalili]",41.99,622,4.5,272,7.5 x 1.41 x 9.25 inches,2.4 pounds,English
+Essentials of Deep Learning and AI: Experience Unsupervised Learning Autoencoders Feature Engineering and Time Series Analysis with TensorFlow Keras and scikit-learn (English Edition),"[Shashidhar Soppin,Dr. Manjunath Ramachandra et al.]",29.95,394,5,4,7.5 x 0.89 x 9.25 inches,1.34 pounds,English
+Hands-On Deep Learning with Apache Spark: Build and deploy distributed deep learning applications on Apache Spark,[Guglielmo Iozzia],46.99,322,4,1,7.5 x 0.73 x 9.25 inches,1.22 pounds,English
+Deep Learning from the Basics: Python and Deep Learning: Theory and Implementation,[Koki Saitoh],39.99,316,4.3,18,7.5 x 0.72 x 9.25 inches,1.2 pounds,English
+Introduction to Machine Learning with Python: A Guide for Data Scientists,,45,398,4.5,565,7 x 0.82 x 9.19 inches,1.3 pounds,English
+Machine Learning Engineering,[Andriy Burkov],39.49,310,4.7,222,7.5 x 0.73 x 9.25 inches,1.18 pounds,English
+Feature Store for Machine Learning: Curate discover share and serve ML features at scale,[Jayanth Kumar M J],39.99,280,5,3,7.5 x 0.64 x 9.25 inches,1.07 pounds,English
+Machine Learning Fundamentals,[Hui Jiang],47.49,418,4.3,6,8 x 1 x 10 inches,2.01 pounds,English
+Applied Machine Learning Explainability Techniques: Make ML models explainable and trustworthy for practical applications using LIME SHAP and more,[Aditya Bhattacharya],44.99,306,5,2,7.5 x 0.69 x 9.25 inches,1.16 pounds,English
+Machine Learning in the Oil and Gas Industry: Including Geosciences Reservoir Engineering and Production Engineering with Python,"[Yogendra Narayan Pandey,Ayush Rastogi et al.]",26.99,320,4.9,20,6.1 x 0.73 x 9.25 inches,1.08 pounds,English
+Machine Learning For Dummies,[John Paul Mueller],20.49,464,4.2,56,7.38 x 1.05 x 9.25 inches,1.34 pounds,English
+Journey to Become a Google Cloud Machine Learning Engineer: Build the mind and hand of a Google Certified ML professional,[Dr. Logan Song],42.74,330,,0,7.5 x 0.75 x 9.25 inches,1.26 pounds,English
+Advances in Financial Machine Learning,[Marcos Lopez de Prado],40.49,400,4.5,514,6.1 x 1.1 x 9 inches,1.6 pounds,English
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),,96.46,1104,4.4,314,8.25 x 1.79 x 9.27 inches,4.2 pounds,English
+Machine Learning: A Constraint-Based Approach,"[Marco Gori,Alessandro Betti et al.]",105,,,0,,1.11 pounds,English
+AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt,"[Somanath Nanda,Weslley Moura]",49.99,338,4.2,31,7.5 x 0.77 x 9.25 inches,1.28 pounds,English
+Pattern Recognition and Machine Learning (Information Science and Statistics),[Christopher M. Bishop],76.1,738,4.6,663,7.7 x 1.3 x 10.2 inches,4.73 pounds,English
+Fundamentals of Machine Learning for Predictive Data Analytics second edition: Algorithms Worked Examples and Case Studies,"[John D. Kelleher,Brian Mac Namee et al.]",80,856,4.8,48,7.81 x 1.31 x 9.56 inches,3.8 pounds,English
+Machine Learning for Asset Managers (Elements in Quantitative Finance),,20,152,4.5,101,6 x 0.36 x 9 inches,8.8 ounces,English
+Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI,[Robert (Munro) Monarch],42.49,424,4.4,16,7.38 x 1 x 9.25 inches,1.68 pounds,English
+Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples,[Serg MasÃ­s],40.41,736,4.6,47,7.5 x 1.66 x 9.25 inches,2.74 pounds,English
+Machine Learning for Streaming Data with Python: Rapidly build practical online machine learning solutions using River and other top key frameworks,[Joos Korstanje],44.99,258,5,2,7.5 x 0.59 x 9.25 inches,15.8 ounces,English
+Machine Learning Engineering in Action,[Ben Wilson],52.24,576,5,6,7.38 x 1.2 x 9.25 inches,2.09 pounds,English
+Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning series),"[Carl Edward Rasmussen,Christopher K. I. Williams]",50,272,4.7,56,10.22 x 8.26 x 0.73 inches,1.6 pounds,English
+Understanding Machine Learning: From Theory to Algorithms,"[Shai Shalev-Shwartz,Shai Ben-David]",62.99,410,4.4,218,7 x 0.94 x 10 inches,2.01 pounds,English
+Machine Learning in Finance: From Theory to Practice,"[Matthew F. Dixon,Igor Halperin et al.]",83.8,573,4.5,92,6.14 x 1.25 x 9.21 inches,2.25 pounds,English
+Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform machine learning experiments and deployments,[Joshua Arvin Lat],51.99,762,4.9,12,7.5 x 1.72 x 9.25 inches,2.83 pounds,English
+Introduction to Statistical and Machine Learning Methods for Data Science,"[Dr. Carlos Andre Reis Andre Reis Pinheiro,Mike Patetta]",29.95,170,5,2,7.5 x 0.39 x 9.25 inches,10.7 ounces,English
+Probabilistic Numerics: Computation as Machine Learning,"[Philipp Hennig,Michael A. Osborne et al.]",62.99,410,,0,8.03 x 0.94 x 10 inches,2.35 pounds,English
+Knowledge Graphs: Fundamentals Techniques and Applications (Adaptive Computation and Machine Learning series),,52.25,568,4.3,45,7.31 x 1.18 x 9.31 inches,2.3 pounds,English
+Scaling Machine Learning with Spark: Distributed ML with MLlib TensorFlow and PyTorch,[Adi Polak],64.31,400,,0,,1.11 pounds,English
+Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow,"[Hannes Hapke,Catherine Nelson]",35.49,366,4.5,57,7 x 0.76 x 9.19 inches,1.28 pounds,English
+Hey Cyba,[Steve Young],22.3,254,4.3,7,6 x 0.58 x 9 inches,13.8 ounces,English
+Python Programming for Beginners: The #1 Python Programming Crash Course for Beginners to Learn Python Coding Well & Fast (with Hands-On Exercises),[Codeone Publishing],19.45,125,4.3,347,8 x 0.29 x 10 inches,12 ounces,English
+Machine Learning: A Bayesian and Optimization Perspective,[Sergios Theodoridis],74.42,1160,4.6,24,7.5 x 2.25 x 9.25 inches,5.18 pounds,English
+Machine Learning: A Quantitative Approach,[Henry H Liu],49.99,479,4.8,23,7.5 x 1.08 x 9.25 inches,1.82 pounds,English
+Machine Learning for Text,[Charu C. Aggarwal],75.9,588,,0,7 x 1.5 x 10 inches,2.72 pounds,English
+Machine Learning revised and updated edition (The MIT Press Essential Knowledge series),,15.95,280,4.1,14,5.06 x 0.57 x 7 inches,8.8 ounces,English
+Machine Learning Guide for Oil and Gas Using Python: A Step--Step Breakdown with Data Algorithms Codes and Applications,"[Hoss Belyadi,Alireza Haghighat]",115.78,476,5,3,5.98 x 1.08 x 9.02 inches,1.64 pounds,English
+Automated Machine Learning for Business,"[Kai R. Larsen,Daniel S. Becker]",45,352,5,4,9.9 x 0.8 x 6.8 inches,1.27 pounds,English
+Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems),,71.2,744,4.3,243,7.6 x 1.5 x 9.4 inches,3.16 pounds,English
+Natural Language Processing with Transformers Revised Edition,"[Lewis Tunstall,Leandro von Werra et al.]",45.29,406,4.1,16,7 x 1 x 9.25 inches,1.43 pounds,English
+Mastering Azure Machine Learning: Execute large-scale end-to-end machine learning with Azure 2nd Edition,"[Christoph Korner,Marcel Alsdorf]",44.99,624,5,5,7.5 x 1.41 x 9.25 inches,2.33 pounds,English
+Getting Started with Natural Language Processing,[Ekaterina Kochmar],39.99,456,,0,7.38 x 0.81 x 9.25 inches,13.7 ounces,English
+Build Your Own Programming Language: A programmers guide to designing compilers interpreters and DSLs for solving modern computing problems,[Clinton L. Jeffery],40.49,494,4.3,31,7.5 x 1.12 x 9.25 inches,1.85 pounds,English
+Introduction to Online Convex Optimization second edition (Adaptive Computation and Machine Learning series),,60,248,,0,6.19 x 0.66 x 9.25 inches,1 pounds,English
+Machine Learning in Asset Pricing (Princeton Lectures in Finance 1),,42.99,160,4.3,7,6 x 0.9 x 9.3 inches,14.1 ounces,English
+Data Cleaning and Exploration with Machine Learning: Get to grips with machine learning techniques to achieve sparkling-clean data quickly,[Michael Walker],49.99,542,5,1,7.5 x 1.23 x 9.25 inches,2.03 pounds,English
+Machine Learning Engineering on AWS: Building Scaling and Securing Machine Learning Systems and MLOps Pipelines in Production,[Joshua Arvin Lat],44.99,570,,0,,1.11 pounds,English
+Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images,"[Valliappa Lakshmanan,Martin GÃ¶rner et al.]",52.99,482,4.1,18,6.93 x 1.1 x 9.06 inches,1.7 pounds,English
+Getting Started with Amazon SageMaker Studio: Learn to build end-to-end machine learning projects in the SageMaker machine learning IDE,[Michael Hsieh],41.99,326,4.8,9,7.5 x 0.74 x 9.25 inches,1.24 pounds,English
+Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP,[Adi Wijaya],49.99,440,4.6,13,7.5 x 1 x 9.25 inches,1.66 pounds,English
+AWS Certified Machine Learning Study Guide: Specialty (MLS-C01) Exam,"[Shreyas Subramanian,Stefan Natu]",35.49,352,4.9,18,7.3 x 0.8 x 9.1 inches,1.35 pounds,English
+Reinforcement Learning second edition: An Introduction (Adaptive Computation and Machine Learning series),,66.44,552,4.6,460,7.25 x 1.48 x 9.31 inches,2.6 pounds,English
+Envisioning Information,[Edward R. Tufte],42,126,4.6,377,8.75 x 0.75 x 10.75 inches,2 pounds,English
+Kubeflow for Machine Learning: From Lab to Production,"[Trevor Grant,Holden Karau et al.]",29.6,264,4.1,44,7 x 0.75 x 9 inches,14.8 ounces,English
+Tree-Based Methods for Statistical Learning in R: A Practical Introduction with Applications in R (Chapman & Hall/CRC Data Science Series),,86.32,388,,0,6.14 x 0.94 x 9.21 inches,2.01 pounds,English
+The Pragmatic Programmer: Your Journey To Mastery 20th Anniversary Edition (2nd Edition),"[David Thomas,Andrew Hunt]",30.26,352,4.8,2026,7.7 x 1.1 x 9.35 inches,1.68 pounds,English
+Python Machine Learning Workbook for Beginners: 10 Machine Learning Projects Explained from Scratch,,19.99,282,4.6,23,6 x 0.64 x 9 inches,1.01 pounds,English
+Data Science and Machine Learning Interview Questions Using R: Crack the Data Scientist and Machine Learning Engineers Interviews with Ease (English Edition),[Vishwanathan Narayanan],19.95,130,4.3,7,6 x 0.3 x 9 inches,6.6 ounces,English
+Automated Machine Learning on AWS: Fast-track the development of your production-ready machine learning applications the AWS way,"[Trenton Potgieter,Jonathan Dahlberg]",44.99,420,4.8,8,7.5 x 0.95 x 9.25 inches,1.58 pounds,English
+Quantum Machine Learning with Python: Using Cirq from Google Research and IBM Qiskit,[Santanu Pattanayak],28.98,384,3.9,14,7.01 x 0.87 x 10 inches,1.6 pounds,English
+TensorFlow Machine Learning Projects: Build 13 real-world projects with advanced numerical computations using the Python ecosystem,"[Ankit Jain,Armando Fandango et al.]",36.99,322,4,22,7.5 x 0.73 x 9.25 inches,1.22 pounds,English
+Applied Machine Learning and AI for Engineers: Solve Business Problems That Cant Be Solved Algorithmically,[Jeff Prosise],64.36,375,,0,7 x 0.2 x 9 inches,1.11 pounds,English
+An Introduction to Machine Learning,[Miroslav Kubat],56.99,476,,0,6.5 x 1.25 x 9.75 inches,1.93 pounds,English
+Linear Algebra and Learning from Data,[Gilbert Strang],82.47,446,4.6,208,7.72 x 0.98 x 9.53 inches,2.05 pounds,English
+Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists,"[Alice Zheng,Amanda Casari]",42.49,218,4.5,65,7 x 0.4 x 9.1 inches,14.1 ounces,English
+Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms Worked Examples and Case Studies (The MIT Press),"[John D. Kelleher,Brian Mac Namee et al.]",59.94,624,4.6,97,7 x 1.13 x 9 inches,2.29 pounds,English
+Feature Engineering Bookcamp,[Sinan Ozdemir],49.99,272,,0,7.38 x 0.7 x 9.25 inches,11.5 ounces,English
+Build Your Own AI Investor: Third Edition (AI Investor Series),[Dr. Damon Lee],52.99,318,4.2,3,6.69 x 0.75 x 9.61 inches,1.42 pounds,English
+Text Data Mining,"[Chengqing Zong,Rui Xia et al.]",29.31,372,5,1,7.8 x 0.9 x 9.4 inches,1.76 pounds,English
+Mathematics for Machine Technology,"[John C. Peterson,Robert D. Smith]",125.99,608,4.6,156,8.25 x 1 x 10.5 inches,3.05 pounds,English
+Distributed Machine Learning Patterns,[Yuan Tang],59.99,375,,0,7.38 x 0.94 x 9.25 inches,15.8 ounces,English
+Machine Learning and Security: Protecting Systems with Data and Algorithms,"[Clarence Chio,David Freeman]",44.49,383,4.5,44,7 x 0.8 x 9.19 inches,1.47 pounds,English
+Machine Learning for Beginners: Learn to Build Machine Learning Systems Using Python (English Edition),[Harsh Bhasin],16.23,262,3.9,33,7.5 x 0.6 x 9.25 inches,1.01 pounds,English
+Python for Data Science: 2 Books in 1. A Practical Beginnerâ€™s Guide to learn Python Programming introducing into Data Analytics Machine learning Web Development with Hands-on Projects,[ERICK THOMPSON],24.99,265,3.5,18,6 x 0.6 x 9 inches,12.6 ounces,English
+The Machine Learning Workshop: Get ready to develop your own high-performance machine learning algorithms with scikit-learn 2nd Edition,[Hyatt Saleh],36.99,286,4.6,11,7.5 x 0.65 x 9.25 inches,1.09 pounds,English
+Bayesian Reasoning and Machine Learning,[David Barber],81.99,735,4.2,83,7.7 x 1.5 x 9.8 inches,3.77 pounds,English
+Bayesian Optimization,[Roman Garnett],44.99,150,,0,,1.74 pounds,English
+Introduction To Machine Learning In Quantitative Finance An (Advanced Textbooks In Mathematics),"[Hao Ni,Xin Dong et al.]",38.99,262,3.6,4,6 x 0.62 x 9 inches,12.6 ounces,English
+Data Mining and Machine Learning: Fundamental Concepts and Algorithms,"[Mohammed J. Zaki,Wagner Meira Jr]",55.24,776,4.7,17,7.25 x 1.75 x 10 inches,3.53 pounds,English
+Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies,[Steven Finlay],19.99,236,4.4,11,5.5 x 0.54 x 8.5 inches,13 ounces,English
+Practical Machine Learning with Spark: Uncover Apache Sparkâ€™s Scalable Performance with High-Quality Algorithms Across NLP Computer Vision and ML(English Edition),"[Gourav Gupta,Dr. Manish Gupta et al.]",29.95,498,,0,7.5 x 1.13 x 9.25 inches,1.87 pounds,English
+Machine Learning in Business: An Introduction to the World of Data Science,[John C Hull],39,287,4.9,23,6 x 0.84 x 9 inches,1.3 pounds,English
+A First Course in Machine Learning (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Simon Rogers,Mark Girolami]",43.96,428,4.4,34,6.14 x 0.97 x 9.21 inches,1.34 pounds,English
+Statistics Data Mining and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data Updated Edition (Princeton Series in Modern Observational Astronomy 13),"[Å½eljko IveziÄ‡,Andrew J. Connolly et al.]",78.8,560,4.9,16,7 x 1.5 x 10 inches,2.85 pounds,English
+Google BigQuery: The Definitive Guide: Data Warehousing Analytics and Machine Learning at Scale,"[Valliappa Lakshmanan,Jordan Tigani]",29.99,522,4.5,93,7.01 x 1 x 9.17 inches,1.81 pounds,English
+Machine Learning: An Algorithmic Perspective (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,78.96,458,4.2,74,6.9 x 1 x 10 inches,0.035 ounces,English
+SQL FOR BEGINNERS: THE FUNDAMENTAL LANGUAGE FOR DATA SCIENCE TO MASTERING DATABASES. AN ESSENTIAL GUIDE YOU CANâ€™T MISS TO LEARN SQL IN 7 DAYS OR LESS WITH HANDS-ON PROJECTS.,[ERICK THOMPSON],13.99,155,3.9,19,6 x 0.35 x 9 inches,7.7 ounces,English
+Introduction to Data Mining and Analytics,[Kris Jamsa],67.65,668,4.6,14,7.3 x 0.9 x 9 inches,1.98 pounds,English
+Machine Learning for Hackers: Case Studies and Algorithms to Get You Started,"[Drew Conway,John Myles White]",49.99,324,3.7,53,7 x 0.75 x 9.19 inches,1.14 pounds,English
+Automated Machine Learning in Action,"[Qingquan Song,Haifeng Jin et al.]",44.99,336,4.5,2,7.38 x 0.9 x 9.25 inches,1.1 pounds,English
+A Primer on Machine Learning in Subsurface Geosciences (SpringerBriefs in Petroleum Geoscience & Engineering),,72,192,5,2,6.1 x 0.46 x 9.25 inches,1 pounds,English
+Machine Learning Refined: Foundations Algorithms and Applications,"[Jeremy Watt,Reza Borhani et al.]",60.61,594,3.9,37,6.75 x 1.25 x 9.75 inches,3 pounds,English
+Programming for Data Science: 4 Books in 1. The Complete Beginners Guide you Canâ€™t Miss to Master the Era of the Data Economy using Python Java SQL Coding,[ERICK THOMPSON],33.99,610,4,25,6 x 1.38 x 9 inches,1.78 pounds,English
+Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data,[Ankur A. Patel],35.5,362,4.1,81,7 x 0.75 x 9.19 inches,1.47 pounds,English
+Reliable Machine Learning: Applying SRE Principles to ML in Production,"[Cathy Chen,Niall Murphy et al.]",61.99,350,,0,,1.11 pounds,English
+Building Machine Learning Powered Applications: Going from Idea to Product,[Emmanuel Ameisen],36.74,260,4.4,116,7 x 0.55 x 9.19 inches,14.7 ounces,English
+Machine Learning,[Peter Flach],53.99,416,4.2,77,7.44 x 0.98 x 9.69 inches,1.94 pounds,English
+Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI,"[Steve Tingiris,Bret Kinsella]",49.99,296,4.4,19,7.5 x 0.67 x 9.25 inches,1.13 pounds,English
+Math for Programmers: 3D graphics machine learning and simulations with Python,[Paul Orland],40.84,688,4.5,55,7.38 x 1 x 9.25 inches,2.73 pounds,English
+Hands-On Julia Programming: An Authoritative Guide to the Production-Ready Systems in Julia (English Edition),[Sambit Kumar Dash],29.95,388,3.3,5,7.5 x 0.88 x 9.25 inches,1.32 pounds,English
+Data Mining: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems),,51.57,654,4.2,109,7.4 x 1.1 x 9.2 inches,2.76 pounds,English
+Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk,[Abdullah Karasan],49.99,334,3.8,8,7 x 0.5 x 9.25 inches,1.17 pounds,English
+System Design Interview â€“ An insiders guide,[Alex Xu],37.99,320,4.6,1957,6 x 0.73 x 9 inches,15.2 ounces,English
+Linear Algebra and Optimization for Machine Learning: A Textbook,[Charu C. Aggarwal],47.27,516,4.6,85,7 x 1.13 x 10 inches,2.61 pounds,English
+Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark,[Mahmoud Parsian],45.56,435,5,6,9.1 x 1.1 x 7 inches,1.53 pounds,English
+Graph Machine Learning: Take graph data to the next level applying machine learning techniques and algorithms,"[Claudio Stamile,Aldo Marzullo et al.]",46.99,338,4,54,7.5 x 0.77 x 9.25 inches,1.28 pounds,English
+Machine Learning Pocket Reference: Working with Structured Data in Python,[Matt Harrison],20.99,320,4.6,144,4.25 x 0.67 x 7 inches,8.3 ounces,English
+Distributed Machine Learning with Python: Accelerating model training and serving with distributed systems,[Guanhua Wang],46.99,284,4,11,7.5 x 0.64 x 9.25 inches,1.08 pounds,English
+Machine Learning Engineering with Python: Manage the production life cycle of machine learning models using MLOps with practical examples,[Andrew P. McMahon],39.99,276,4.5,18,7.5 x 0.63 x 9.25 inches,1.06 pounds,English
+Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi (English Edition),[Lloyd Brombach],29.95,506,4.5,52,7.5 x 1.14 x 9.25 inches,1.9 pounds,English
+Python Programming: 3 Books in 1: The Complete Beginnerâ€™s Guide to Learning the Most Popular Programming Language,[Dylan Penny],23.99,330,4.1,45,8 x 0.75 x 10 inches,1.46 pounds,English
+Serverless Architectures on AWS Second Edition,"[Peter Sbarski,Yan Cui et al.]",34.99,256,4.3,14,7.38 x 0.6 x 9.25 inches,15.5 ounces,English
+Automated Machine Learning with Microsoft Azure: Build highly accurate and scalable end-to-end AI solutions with Azure AutoML,[Dennis Michael Sawyers],46.99,340,4.6,26,7.5 x 0.77 x 9.25 inches,1.29 pounds,English
+Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective,"[Setareh Rafatirad,Houman Homayoun et al.]",121,473,,0,6.3 x 1.1 x 9.37 inches,1.95 pounds,English
+Interpretable AI: Building explainable machine learning systems,[Ajay Thampi],59.99,328,4.5,2,7.38 x 0.8 x 9.25 inches,1.1 pounds,English
+Machine Learning with Dynamics 365 and Power Platform: The Ultimate Guide to Apply Predictive Analytics,"[Aurelien Clere,Vinnie Bansal et al.]",37.51,240,3.3,5,6.3 x 1.1 x 9.1 inches,14.4 ounces,English
+Machine Learning with TensorFlow Second Edition,[Mattmann A. Chris],46.61,456,4.2,15,7.38 x 0.9 x 9.25 inches,1.81 pounds,English
+Machine Learning: Architecture in the age of Artificial Intelligence,[Phil Bernstein],46.95,200,4.7,4,6.54 x 0.71 x 9.37 inches,1.19 pounds,English
+Machine Learning: An Applied Mathematics Introduction,[Paul Wilmott],19.99,242,4.5,188,6.14 x 0.55 x 9.21 inches,12.2 ounces,English
+Practical MLOps: Operationalizing Machine Learning Models,"[Noah Gift,Alfredo Deza]",45.18,458,3.9,30,6.75 x 1 x 8.75 inches,1.6 pounds,English
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),,72.02,622,4.6,143,8 x 1.2 x 9.4 inches,2.63 pounds,English
+Python Machine Learning Example: Build intelligent systems using Python TensorFlow 2 PyTorch and scikit-learn 3rd Edition,[Yuxi (Hayden) Liu],34.99,526,4.5,65,7.5 x 1.19 x 9.25 inches,1.97 pounds,English
+The Elements of Statistical Learning: Data Mining Inference and Prediction Second Edition (Springer Series in Statistics),,61.93,767,4.6,1016,9.3 x 6 x 1.4 inches,2.6 pounds,English
+PYTHON CRASH COURSE: A PRACTICAL BEGINNERS GUIDE TO LEARN PYTHON IN 7 DAYS OR LESS INTRODUCING YOU INTO THE WORLD OF DATA SCIENCE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING WITH HANDS-ON PROJECT,[ERICK THOMPSON],14.99,145,3.8,12,6 x 0.33 x 9 inches,7.2 ounces,English
+Artificial Intelligence: A Textbook,[Charu C. Aggarwal],53.54,503,4.1,5,7 x 1.06 x 10 inches,3.31 pounds,English
+Advanced Statistics for Health Research,"[Richard J. Butler,Matthew J. Butler et al.]",108,300,,0,,1.74 pounds,English
+Patterns Predictions and Actions: Foundations of Machine Learning,"[Moritz Hardt,Benjamin Recht]",49.99,320,,0,6.9 x 1 x 10.1 inches,1.59 pounds,English
+Python Feature Engineering Cookbook: Over 70 recipes for creating engineering and transforming features to build machine learning models,[Soledad Galli],39.99,372,4,30,7.5 x 0.84 x 9.25 inches,1.41 pounds,English
+Machine Learning: Master Supervised and Unsupervised Learning Algorithms with Real Examples (English Edition),"[Dr Ruchi Doshi,Dr Kamal Kant Hiran et al.]",19.95,294,3.8,4,7.5 x 0.67 x 9.25 inches,1.03 pounds,English
+Text as Data: A New Framework for Machine Learning and the Social Sciences,"[Justin Grimmer,Margaret E. Roberts et al.]",35.99,360,4.8,15,7 x 1 x 10 inches,1.55 pounds,English
+Machine Learning from Weak Supervision: An Empirical Risk Minimization Approach (Adaptive Computation and Machine Learning series),"[Masashi Sugiyama,Han Bao et al.]",65,320,,0,7.12 x 0.74 x 9.25 inches,1.65 pounds,English
+Introduction to Machine Learning fourth edition (Adaptive Computation and Machine Learning series),,57.99,712,4.7,62,8.31 x 1.46 x 9.38 inches,3.2 pounds,English
+Quantum Computing for Programmers,[Robert Hundt],45.3,350,4.3,3,6.69 x 0.88 x 9.61 inches,1.76 pounds,English
+Computer Programming for Beginners: Fundamentals of Programming Terms and Concepts,[Nathan Clark],18.99,201,4.4,370,6 x 0.46 x 9 inches,9.8 ounces,English
+Practical Simulations for Machine Learning: Using Synthetic Data for AI,"[Paris Buttfield-Addison,Mars Buttfield-Addison et al.]",46.49,331,5,1,7 x 0.75 x 9.25 inches,1.18 pounds,English
+Machine Learning: A First Course for Engineers and Scientists,"[Andreas Lindholm,Niklas WahlstrÃ¶m et al.]",69.99,350,5,1,7.5 x 0.75 x 10.5 inches,1.94 pounds,English
+Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code,[Al Sweigart],30.22,384,4.7,236,7 x 0.94 x 9.25 inches,1.6 pounds,English
+Fluent Python: Clear Concise and Effective Programming,[Luciano Ramalho],50.99,1012,4.7,118,7 x 2 x 9.25 inches,3.48 pounds,English
+Python Distilled (Developers Library),[David Beazley],46.82,352,4.6,91,6.9 x 0.8 x 9 inches,1.28 pounds,English
+Python and Algorithmic Thinking for the Complete Beginner (2nd Edition): Learn to Think Like a Programmer,[Aristides S Bouras],48.98,688,4.5,91,8 x 1.55 x 10 inches,2.96 pounds,English
+Python Basics: A Practical Introduction to Python 3,"[David Amos,Dan Bader et al.]",37.99,635,4.7,476,6 x 1.44 x 9 inches,1.85 pounds,English
+Mathematical Logic through Python,[Gonczarowski Yannai A.],29.99,284,5,1,7 x 0.64 x 10 inches,1.34 pounds,English
+Python Programming: An Introduction to Computer Science 3rd Ed.,[John Zelle],42.75,552,4.6,376,7.5 x 1 x 9.2 inches,2.05 pounds,English
+Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries 4th Edition,"[Steven F. Lott,Dusty Phillips]",38.24,714,4.3,62,7.5 x 1.61 x 9.25 inches,2.66 pounds,English
+Think Python: How to Think Like a Computer Scientist,,28.99,289,4.6,486,7.01 x 0.61 x 9.17 inches,1.14 pounds,English
+Learn Python Programming: An in-depth introduction to the fundamentals of Python 3rd Edition,"[Fabrizio Romano,Heinrich Kruger]",37.11,552,4.2,34,7.5 x 1.25 x 9.25 inches,2.07 pounds,English
+Mastering Financial Pattern Recognition: Finding and Back-Testing Candlestick Patterns with Python,[Sofien Kaabar],64.32,300,,0,,1.11 pounds,English
+Robust Python: Write Clean and Maintainable Code,[Patrick Viafore],32.99,380,4.5,53,7 x 1 x 9 inches,1.33 pounds,English
+Django 4 Example: Build powerful and reliable Python web applications from scratch 4th Edition,"[Antonio Mele,Bob Belderbos]",47.18,764,5,6,7.5 x 1.73 x 9.25 inches,2.84 pounds,English
+Python GUI Programming with Tkinter: Design and build functional and user-friendly GUI applications 2nd Edition,[Alan D. Moore],39.99,664,4.4,47,7.5 x 1.5 x 9.25 inches,2.47 pounds,English
+Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaws Hard Way Series),,31.99,320,4.4,904,7 x 0.73 x 9.13 inches,1.15 pounds,English
+Python in a Nutshell: A Desktop Quick Reference,"[Alex Martelli,Anna Ravenscroft et al.]",79.99,600,,0,,1.11 pounds,English
+Teach Yourself VISUALLY Python (Teach Yourself VISUALLY (Tech)),"[Ted Hart-Davis,Guy Hart-Davis]",30,304,,0,7.3 x 0.9 x 9.2 inches,1.35 pounds,English
+Advanced Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],40.99,290,4.4,41,8 x 0.75 x 9.75 inches,1.75 pounds,English
+Infrastructure as Code Patterns and Practices: With examples in Python and Terraform,[Rosemary Wang],56.99,400,4.8,5,7.38 x 1.1 x 9.25 inches,1.37 pounds,English
+Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series),,40.86,480,4.7,344,7 x 0.9 x 9 inches,1.94 pounds,English
+Architecture Patterns with Python: Enabling Test-Driven Development Domain-Driven Design and Event-Driven Microservices,"[Harry Percival,Bob Gregory]",44.37,304,4.6,359,7 x 0.64 x 9.19 inches,1.07 pounds,English
+Computational Cell Physiology: With Examples In Python,[Stephen M Baylor],39,518,5,8,8 x 1.17 x 10 inches,2.24 pounds,English
+The Book of Dash: Build Dashboards with Python and Plotly,"[Adam Schroeder,Christian Mayer et al.]",34.99,224,,0,6.89 x 0.57 x 9.06 inches,13 ounces,English
+Python for Programmers: with Big Data and Artificial Intelligence Case Studies,,37.41,640,4.4,110,7.1 x 1.2 x 9.1 inches,2.1 pounds,English
+Mastering Python: Write powerful and efficient code using the full range of Pythons capabilities 2nd Edition,[Rick van Hattem],42.74,710,4.7,33,7.5 x 1.6 x 9.25 inches,2.64 pounds,English
+Murachs Python Programming,"[Michael Urban,Joel Murach et al.]",34.3,590,4.5,211,8 x 1.5 x 9.9 inches,2.45 pounds,English
+El lenguaje de programaciÃ³n Python de principio a fin (Spanish Edition),[Angel Pablo Hinojosa GutiÃ©rrez],18.83,734,5,1,6.89 x 1.66 x 9.37 inches,3.15 pounds,Spanish
+Building Versatile Mobile Apps with Python and REST: RESTful Web Services with Django and React,[Art Yudin],39.99,364,4,10,6.1 x 0.82 x 9.25 inches,1.23 pounds,English
+Kalman Filter Made Easy: A Beginners Guide to the Kalman Filter and Extended Kalman Filter with Real Life Examples Supported Python Source Code,[William Franklin],29.99,91,3.5,3,8.5 x 0.22 x 11 inches,10.6 ounces,English
+Scaling Python with Ray: Adventures in Cloud and Serverless Patterns,"[Holden Karau,Boris Lublinsky]",56.26,250,,0,,1.11 pounds,English
+Data Visualization with Python and JavaScript: Scrape Clean Explore and Transform Your Data,[Kyran Dale],56.26,550,,0,,1.11 pounds,English
+The Well-Grounded Python Developer,[Doug Farrell],49.99,375,,0,7.38 x 0.94 x 9.25 inches,15.8 ounces,English
+Algorithmic Short Selling with Python: Refine your algorithmic trading edge consistently generate investment ideas and build a robust long/short product,"[Laurent Bernut,Michael Covel]",49.39,376,4.9,34,7.5 x 0.85 x 9.25 inches,1.42 pounds,English
+Publishing Python Packages: Test share and automate your projects,[Dane Hillard],49.99,245,,0,7.38 x 0.69 x 9.25 inches,11.6 ounces,English
+Create GUI Applications with Python & Qt6 (PyQt6 Edition): The hands-on guide to making apps with Python,,39,,4,2,7 x 1.8 x 10 inches,3.68 pounds,English
+Mastering Object-Oriented Python: Build powerful applications with reusable code using OOP design patterns and Python 3.7 2nd Edition,[Steven F. Lott],33.48,770,4.6,48,7.5 x 1.74 x 9.25 inches,2.86 pounds,English
+Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues 2nd Edition,[JosÃ© Manuel Ortega],39.99,538,4.9,37,7.5 x 1.22 x 9.25 inches,1.98 pounds,English
+Quantum Chemistry and Computing for the Curious: Illustrated with Python and QiskitÂ® code,"[Keeper L. Sharkey,Alain Chance et al.]",47.99,354,4.8,14,7.5 x 0.84 x 9.25 inches,1.34 pounds,English
+Metaprogramming with Python: A programmers guide to writing reusable code to build smarter applications,[Sulekha AloorRavi],44.99,402,,0,7.5 x 0.91 x 9.25 inches,1.52 pounds,English
+Building Python Web APIs with FastAPI: A fast-paced guide to building high-performance robust web APIs with very little boilerplate code,[Abdulazeez Abdulazeez Adeshina],39.99,216,4.4,8,7.5 x 0.49 x 9.25 inches,13.4 ounces,English
+Dead Simple Python: Idiomatic Python for the Impatient Programmer,[Jason C McDonald],59.99,752,,0,0.04 x 0.04 x 0.04 inches,13 ounces,English
+Python for Cybersecurity: Using Python for Cyber Offense and Defense,[Howard E. Poston III],18.74,240,4.6,9,7.38 x 0.55 x 9.25 inches,14.4 ounces,English
+Cracking Codes with Python: An Introduction to Building and Breaking Ciphers,[Al Sweigart],19.37,416,4.7,354,7.06 x 0.94 x 9.25 inches,1.76 pounds,English
+Web Scraping with Python: Collecting More Data from the Modern Web,[Ryan Mitchell],33.49,,4.6,178,7 x 0.65 x 9.19 inches,1.17 pounds,English
+Data Structures and Algorithms in Python,"[Roberto Tamassia,Michael H. Goldwasser et al.]",99.88,768,4.3,225,7.7 x 1.4 x 9.4 inches,3.14 pounds,English
+Python Workout: 50 ten-minute exercises,[Reuven M. Lerner],56.99,248,4.9,39,7.38 x 0.6 x 9.25 inches,1.06 pounds,English
+Real-World Python: A Hackers Guide to Solving Problems with Code,[Lee Vaughan],24.49,360,4.7,88,7 x 0.93 x 9.25 inches,1.5 pounds,English
+Full-Color Illustration Data Structrues & Algorithms Python: Easy and Interesting to Learn Through Full-Color Diagrams (Python Foundation & Design Patterns & Data Structures & Algorithms),[yang hu],49.99,264,,0,8 x 0.62 x 10 inches,1.46 pounds,English
+Python Programming and Visualization for Scientists,"[Alex Decaria,Grant W Petty et al.]",44.43,372,5,7,8.25 x 0.77 x 11 inches,1.84 pounds,English
+Easy Learning Python 3: Python for Beginners Guide (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],18.53,180,3.9,25,8 x 0.43 x 10 inches,1.13 pounds,English
+Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaws Hard Way Series),,37.99,240,4.6,102,6.9 x 0.6 x 9 inches,13.8 ounces,English
+Scientific Computing with Python: High-performance scientific computing with NumPy SciPy and pandas 2nd Edition,"[Claus FÃ¼hrer,Jan Erik Solem et al.]",39.99,392,4.6,23,7.5 x 0.89 x 9.25 inches,1.48 pounds,English
+Mastering Python for Bioinformatics: How to Write Flexible Documented Tested Python Code for Research Computing,[Ken Youens-Clark],61.18,456,5,8,7 x 1 x 9 inches,1.59 pounds,English
+Head First Python: A Brain-Friendly Guide,[Paul Barry],50.62,622,4.6,855,8 x 1.3 x 9.2 inches,2.7 pounds,English
+Learning Python with Raspberry Pi,"[Alex Bradbury,Ben Everard]",17.39,288,4.2,160,7.5 x 0.7 x 9.2 inches,1.8 pounds,English
+Data Visualization in Python,[Daniel Nelson],37.99,345,3.3,12,8.5 x 0.81 x 11 inches,2.05 pounds,English
+Intuitive Python: Productive Development for Projects that Last,[David Muller],17.59,142,5,3,7.5 x 0.3 x 9.25 inches,9 ounces,English
+Python for Microcontrollers: Getting Started with MicroPython,[Donald Norris],16.63,288,4.2,79,7.1 x 0.62 x 9 inches,13.8 ounces,English
+Python Testing with pytest: Simple Rapid Effective and Scalable,[Brian Okken],37.06,274,4.5,37,7.5 x 0.58 x 9.25 inches,1.05 pounds,English
+Python Cookbook Third Edition,,50.68,704,4.6,561,7 x 1.41 x 9.19 inches,2.5 pounds,English
+Python in easy steps,,10.66,192,4.6,370,7.25 x 0.5 x 9 inches,15.2 ounces,English
+Python Programming: The Ultimate Beginners Guide to Learn Python Programming Step--Step (Computer Programming),,25.99,148,4.5,37,5 x 0.34 x 8 inches,5.9 ounces,English
+Advanced Python Programming: Accelerate your Python programs using proven techniques and design patterns 2nd Edition,[Quan Nguyen],49.99,606,4.3,12,7.5 x 1.37 x 9.25 inches,2.26 pounds,English
+High Performance Python: Practical Performant Programming for Humans,"[Micha Gorelick,Ian Ozsvald]",28.49,468,4.7,139,6.9 x 1.4 x 9.1 inches,2.21 pounds,English
+Doing Math with Python: Use Programming to Explore Algebra Statistics Calculus and More!,[Amit Saha],28.02,264,4.5,157,7.06 x 0.65 x 9.25 inches,1.14 pounds,English
+Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python,[Robert Loredo],41.99,510,4.5,91,7.5 x 1.15 x 9.25 inches,1.91 pounds,English
+Interpretable Machine Learning with Python: Build explainable fair and robust high-performance models with hands-on real-world examples 2nd Edition,[Serg MasÃ­s],49.99,698,,0,,1.11 pounds,English
+Programming with MicroPython: Embedded Programming with Microcontrollers and Python,[Nicholas H. Tollervey],39.49,214,4.1,70,7 x 0.4 x 9.2 inches,1.47 pounds,English
+Using Python for Principles of Econometrics,[Constantin Colonescu],29.4,381,5,2,7.44 x 0.86 x 9.69 inches,1.87 pounds,English
+Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management (English Edition),[John Galbraith],24.95,521,,0,7.5 x 1.18 x 9.25 inches,1.96 pounds,English
+Classic Computer Science Problems in Python,[David Kopec],29.99,224,4.4,131,7.38 x 0.5 x 9.25 inches,15.5 ounces,English
+Hyperparameter Tuning with Python: Boost your machine learning models performance via hyperparameter tuning,[Louis Owen],44.99,306,5,2,7.5 x 0.69 x 9.25 inches,1.16 pounds,English
+Ethical Hacking: A Hands-on Introduction to Breaking In,[Daniel G. Graham],32.99,376,4.8,85,6.9 x 0.9 x 9.1 inches,1.55 pounds,English
+Python Flash Cards: Syntax Concepts and Examples,[Eric Matthes],24.48,101,4.7,387,5.44 x 1.96 x 7.25 inches,2.07 pounds,English
+The Pythonic Way: An Architectâ€™s Guide to Conventions and Best Practices for the Design Development Testing and Management of Enterprise Python Code (English Edition),[Sonal Raj],29.95,512,5,1,7.5 x 1.16 x 9.25 inches,1.94 pounds,English
+Flask Web Development: Developing Web Applications with Python,[Miguel Grinberg],36.49,312,4.5,229,7 x 0.66 x 9.19 inches,1.01 pounds,English
+Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],50.99,412,4.5,131,8 x 1 x 9.75 inches,2.85 pounds,English
+Artificial Intelligence in Finance: A Python-Based Guide,[Yves Hilpisch],45.5,478,4.3,41,7 x 0.96 x 9.19 inches,1.66 pounds,English
+Algorithms Python (2 Edition): Easy to learn algorithms through full-color diagrams. (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],49.99,272,,0,8 x 0.64 x 10 inches,1.5 pounds,English
+Algorithmic Trading with Python: Quantitative Methods and Strategy Development,[Chris Conlan],28.49,126,4.2,56,8.5 x 0.29 x 11 inches,11 ounces,English
+Quantitative Finance with Python: A Practical Guide to Investment Management Trading and Financial Engineering (Chapman and Hall/CRC Financial Mathematics Series),[Chris Kelliher],96,659,,0,7.5 x 1.5 x 10.5 inches,3.2 pounds,English
+Violent Python: A Cookbook for Hackers Forensic Analysts Penetration Testers and Security Engineers,"[""TJ OConnor""]",46.56,288,4.5,375,7.52 x 0.61 x 9.25 inches,1.03 pounds,English
+Programming ArcGIS Pro with Python (2nd Edition),[Eric Pimpler],44,266,5,1,7.5 x 0.6 x 9.25 inches,1.1 pounds,English
+Foundations of Statistics for Data Scientists: With R and Python (Chapman & Hall/CRC Texts in Statistical Science),,98.36,468,5,3,7.1 x 1.2 x 9.9 inches,2.38 pounds,English
+Interactive Data Visualization with Python: Present your data as an effective and compelling story 2nd Edition,"[Abha Belorkar,Sharath Chandra Guntuku et al.]",44.99,362,4.3,19,7.5 x 0.85 x 9.25 inches,1.37 pounds,English
+PYTHON PROGRAMMING: 3 BOOKS IN 1: The Complete guide to Learn Everything you Need to Know about Python,[Clive Campbell],29.99,602,4.4,160,6 x 1.36 x 9 inches,1.97 pounds,English
+A Smarter Way to Learn Python: Learn it faster. Remember it longer.,[Mark Myers],19.95,236,4.6,1059,7 x 0.5 x 10 inches,14.7 ounces,English
+Fundamentals of Python: First Programs,[Kenneth A. Lambert],69.07,476,4.4,112,7.5 x 0.75 x 9.25 inches,1.6 pounds,English
+IoT and Edge Computing for Architects: Implementing edge and IoT systems from sensors to clouds with communication systems analytics and security 2nd Edition,[Perry Lea],44.99,632,4.5,64,7.5 x 1.43 x 9.25 inches,2.36 pounds,English
+Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats 2nd Edition,[Gerard Johansen],39.99,448,4.6,84,7.5 x 1.01 x 9.25 inches,1.68 pounds,English
+Learn JavaScript Quickly: A Complete Beginnerâ€™s Guide to Learning JavaScript Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),[Code Quickly],16.89,174,4.5,462,8.5 x 0.4 x 11 inches,14.6 ounces,English
+Genetic Algorithms with Python,[Clinton Sheppard],19.97,423,4.4,41,7.44 x 0.96 x 9.69 inches,1.66 pounds,English
+Python 3 Standard Library Example The (Developers Library),,51.29,1456,4.5,117,7.1 x 2.15 x 9.1 inches,3.95 pounds,English
+Python in 24 Hours Sams Teach Yourself,,30.46,320,4.2,112,7 x 0.8 x 9 inches,1.17 pounds,English
+Introduction to Computation and Programming Using Python third edition: With Application to Computational Modeling and Understanding Data,[John V. Guttag],52.25,496,4.6,109,7 x 1.32 x 9.06 inches,2.2 pounds,English
+Python: All That Jumping,[John Yoon Ph.D.],37.95,183,,0,7.5 x 0.43 x 9.25 inches,14.7 ounces,English
+Learn Python Quickly: A Complete Beginnerâ€™s Guide to Learning Python Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),,17.27,175,4.4,382,7 x 0.4 x 10 inches,10.9 ounces,English
+Mastering GUI Programming with Python: Develop impressive cross-platform GUI applications with PyQt,[Alan D. Moore],39.99,542,4.3,110,7.5 x 1.23 x 9.25 inches,2.03 pounds,English
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,"[Bradley N. Miller,David L. Ranum]",42.75,438,4.6,137,7.5 x 0.9 x 9.2 inches,1.7 pounds,English
+Clean Code in Python: Develop maintainable and efficient code 2nd Edition,[Mariano Anaya],44.64,422,4.6,89,7.5 x 0.96 x 9.25 inches,1.59 pounds,English
+Continuous Delivery with Docker and Jenkins: Create secure applications building complete CI/CD pipelines 2nd Edition,[Rafal Leszko],46.99,350,4.4,77,7.5 x 0.79 x 9.25 inches,1.33 pounds,English
+Python for SAS Users: A SAS-Oriented Introduction to Python,"[Randy Betancourt,Sarah Chen]",37.99,451,4.4,41,7.01 x 1.02 x 10 inches,1.88 pounds,English
+Fundamentals of Python: Data Structures (MindTap Course List),[Kenneth Lambert],71.99,448,4.2,10,7.5 x 0.75 x 9 inches,1.55 pounds,English
+Microsoft Power BI Cookbook: Gain expertise in Power BI with over 90 hands-on recipes tips and use cases 2nd Edition,"[Greg Deckler,Brett Powell]",49.39,654,4.7,43,7.5 x 1.48 x 9.25 inches,2.44 pounds,English
+Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner,[Bradford Tuckfield],24.99,248,4.5,79,7 x 0.63 x 9.25 inches,15.5 ounces,English
+Learn to Code Solving Problems: A Python Programming Primer,[Daniel Zingaro],23.06,336,4.7,42,7 x 0.78 x 9.05 inches,1.4 pounds,English
+Hands-On Data Preprocessing in Python: Learn how to effectively prepare data for successful data analytics,[Roy Jafari],49.99,602,5,17,7.5 x 1.36 x 9.25 inches,2.25 pounds,English
+Practical Python Programming for IoT: Build advanced IoT projects using a Raspberry Pi 4 MQTT RESTful APIs WebSockets and Python 3,[Gary Smart],39.99,516,4.4,45,7.5 x 1.17 x 9.25 inches,1.93 pounds,English
+Hands-On Explainable AI (XAI) with Python: Interpret visualize explain and integrate reliable AI for fair secure and trustworthy AI apps,[Denis Rothman],49.99,454,3.8,22,7.5 x 1.03 x 9.25 inches,1.71 pounds,English
+Python for Data Analysis: A Beginners Guide to Master the Fundamentals of Data Science and Data Analysis Using Pandas Numpy and Ipython (Programming Languages for Beginners),,17.97,173,4.3,30,6 x 0.39 x 9 inches,9.1 ounces,English
+Python Interview Questions: Brush up for your next Python interview with 240+ solutions on most common challenging interview questions (English Edition),[Swati Saxena],29.95,144,3.1,18,6 x 0.33 x 9 inches,7 ounces,English
+Python: 2 Manuscripts in 1 book: -Python For Beginners -Python 3 Guide,[Timothy C. Needham],24.95,256,4.1,243,6 x 0.58 x 9 inches,12.3 ounces,English
+Practical Discrete Mathematics: Discover math principles that fuel algorithms for computer science and machine learning with Python,,56.69,330,4.3,34,7.5 x 0.75 x 9.25 inches,1.25 pounds,English
+Python Automation Cookbook: 75 Python automation ideas for web scraping data wrangling and processing Excel reports emails and more 2nd Edition,[Jaime Buelta],39.99,526,4.4,78,7.5 x 1.19 x 9.25 inches,1.97 pounds,English
+DATA STRUCTURE AND ALGORITHMS: BUILD IN PYTHON,"[Dr. RACHANA KAMBLE,AYUSHI GODIYA et al.]",8.66,362,,0,6 x 0.82 x 9 inches,1.36 pounds,English
+Python One-Liners: Write Concise Eloquent Python Like a Professional,[Christian Mayer],35.81,216,4.8,117,7.06 x 0.53 x 9.25 inches,14.4 ounces,English
+Expert Python Programming: Master Python learning the best coding practices and advanced programming concepts 4th Edition,"[Michal Jaworski,Tarek Ziade]",39.94,630,4.5,57,7.5 x 1.42 x 9.25 inches,2.35 pounds,English
+Simulation with Python: Develop Simulation and Modeling in Natural Sciences Engineering and Social Sciences,"[Rongpeng Li,Aiichiro Nakano]",39.99,181,,0,7 x 0.39 x 10 inches,11.7 ounces,English
+Web Development with Django: Learn to build modern web applications with a Python-based framework,"[Ben Shaw,Saurabh Badhwar et al.]",41.99,826,4.5,65,7.5 x 1.87 x 9.25 inches,3.07 pounds,English
+Python for Algorithmic Trading: From Idea to Cloud Deployment,[Yves Hilpisch],44.49,380,4.3,94,7 x 0.9 x 9.1 inches,1.35 pounds,English
+Clean Code: A Handbook of Agile Software Craftsmanship,,47.49,464,4.7,4528,7 x 1.1 x 9.2 inches,1.46 pounds,English
+Serious Python: Black-Belt Advice on Deployment Scalability Testing and More,[Julien Danjou],29.24,240,4.7,329,7.06 x 0.57 x 9.25 inches,1.15 pounds,English
+Python Natural Language Processing Cookbook: Over 50 recipes to understand analyze and generate text for implementing language processing tasks,[Zhenya AntiÄ‡],37.99,284,4.2,38,7.5 x 0.64 x 9.25 inches,1.08 pounds,English
+Python Crash Course 3rd Edition,[Eric Matthes],40.49,552,,0,0.04 x 0.04 x 0.04 inches,13 ounces,English
+The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript,[Al Sweigart],36.94,328,5,6,6.8 x 0.6 x 8.9 inches,1.6 pounds,English
+Bayesian Analysis with Python: Introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ 2nd Edition,[Osvaldo Martin],44.99,356,4.1,44,7.5 x 0.81 x 9.25 inches,1.35 pounds,English
+Python: For Beginners: A Crash Course Guide To Learn Python in 1 Week,[Timothy C. Needham],17.97,135,4.3,3034,6 x 0.31 x 9 inches,6.7 ounces,English
+Murachs Python Programming (2nd Edition),"[Joel Murach,Michael Urban]",56.53,,4.6,82,,,
+Mastering Reinforcement Learning with Python: Build next-generation self-learning models using reinforcement learning techniques and best practices,[Enes Bilgin],46.99,544,4.4,32,7.5 x 1.23 x 9.25 inches,2.04 pounds,English
+Introduction to Radar With Python and Matlab,[Lee Andrew Harrison],154.23,,4.1,11,,,
+Python Pocket Reference: Python In Your Pocket (Pocket Reference (OReilly)),,13.79,262,4.5,818,4.25 x 0.5 x 7 inches,6.6 ounces,English
+Python for DevOps: Learn Ruthlessly Effective Automation,"[Noah Gift,Kennedy Behrman et al.]",35.99,506,4.5,222,7.01 x 1.02 x 9.17 inches,1.76 pounds,English
+The Python Bible 7 in 1: Volumes One To Seven (Beginner Intermediate Data Science Machine Learning Finance Neural Networks Computer Vision),[Florian Dedov],37.99,507,4.5,128,5 x 1.27 x 8 inches,1.2 pounds,English
+Mastering Python Networking: Your one-stop solution to using Python for network automation programmability and DevOps 3rd Edition,"[Eric Chou,Michael Kennedy et al.]",55.09,576,4.6,139,7.5 x 1.3 x 9.25 inches,2.15 pounds,English
+Automate the Boring Stuff with Python 2nd Edition: Practical Programming for Total Beginners,[Al Sweigart],26.49,592,4.7,2538,7 x 1.31 x 9.31 inches,2.48 pounds,English
+Introducing Python: Modern Computing in Simple Packages,[Bill Lubanovic],24.49,630,4.7,346,6.93 x 1.34 x 9.06 inches,2.35 pounds,English
+Statistics for People Who (Think They) Hate Statistics,,31.99,512,4.5,697,7 x 1.16 x 10 inches,1.95 pounds,English
+Statistics For Dummies (For Dummies (Lifestyle)),,11.99,416,4.3,1659,7.3 x 1.2 x 9.2 inches,1.69 pounds,English
+Statistics for Absolute Beginners (Second Edition) (Data Science Python & Statistics for Beginners),[Oliver Theobald],14.88,156,4.4,137,6 x 0.39 x 9 inches,8.5 ounces,English
+Introduction to Probability Statistics and Random Processes,[Hossein Pishro-Nik],36.58,744,4.6,233,7.44 x 1.68 x 9.69 inches,3.16 pounds,English
+Princeton Review AP Statistics Prep 2022: 4 Practice Tests + Complete Content Review + Strategies & Techniques (2022) (College Test Preparation),[The Princeton Review],18.99,464,4.6,130,8.3 x 1.04 x 10.79 inches,1.63 pounds,English
+5 Steps to a 5: AP Statistics 2023,"[Jared Derksen,DeAnna Krause McDonald]",18,384,,0,8.5 x 0.75 x 11 inches,1.25 pounds,English
+The Foundations of Statistics,[Leonard J. Savage],11.89,310,4.5,102,5.43 x 0.73 x 8.49 inches,12.6 ounces,English
+Princeton Review AP Statistics Prep 2023: 5 Practice Tests + Complete Content Review + Strategies & Techniques (College Test Preparation),[The Princeton Review],18.99,464,4.6,3,8.3 x 1.08 x 10.8 inches,1.55 pounds,English
+Mathematical Statistics with Applications,"[Dennis Wackerly,William Mendenhall et al.]",95.66,944,4.2,282,7.5 x 1.5 x 9.25 inches,3.6 pounds,English
+Statistics in Plain English,[Timothy C. Urdan],39.16,266,4.7,190,8.5 x 0.65 x 11 inches,1.5 pounds,English
+Statistics Workbook For Dummies with Online Practice,[Deborah J. Rumsey],18.99,336,4.3,219,7.9 x 0.9 x 10 inches,1.06 pounds,English
+UPDATED Version of The Practice of Statistics,"[Daren S. Starnes,Josh Tabor]",179.95,1024,4.4,41,8.9 x 1.55 x 11.2 inches,4.77 pounds,English
+Data Mining for Business Analytics: Concepts Techniques and Applications in R,"[Galit Shmueli,Peter C. Bruce et al.]",105.45,576,4.4,147,6.9 x 1.2 x 10.1 inches,3.01 pounds,English
+Probability and Statistics for Economists,[Bruce Hansen],60,416,,0,7.75 x 1 x 10 inches,1.85 pounds,English
+Painless Statistics (Barrons Painless),[Patrick Honner],14.99,320,5,4,6 x 0.7 x 9 inches,15.2 ounces,English
+Discovering Statistics Using IBM SPSS Statistics: North American Edition,[Andy Field],64.7,816,4.4,620,8.9 x 1.3 x 10.9 inches,3.97 pounds,English
+AP Statistics Flashcards Fourth Edition: Up-to-Date Practice + Sorting Ring for Custom Study (Barrons Test Prep),[Martin Sternstein Ph.D.],29.99,513,,0,4.88 x 3 x 5 inches,2.2 pounds,English
+Outline of Basic Statistics: Dictionary and Formulas (Dover Books on Mathematics),"[John E. Freund,Frank J. Williams]",11.95,208,4.2,22,5.2 x 0.5 x 8.4 inches,7.2 ounces,English
+Essentials of Statistics,[Mario Triola],170.15,648,4.5,425,8.5 x 1.05 x 10.85 inches,2.6 pounds,English
+Statistics for People Who (Think They) Hate Statistics: Using Microsoft Excel,"[Neil J. Salkind,Bruce B. Frey]",84.85,512,4.4,70,7 x 1.16 x 10 inches,1.75 pounds,English
+Statistics for the Behavioral Sciences - Standalone Book,"[Frederick J Gravetter,Larry B. Wallnau]",94.46,768,4.5,682,8 x 1 x 10 inches,2.75 pounds,English
+Statistics for Business and Economics,"[James McClave,P. George Benson et al.]",223.99,888,4.3,165,8.8 x 1.75 x 11.2 inches,3.53 ounces,English
+The Little SASÂ® Book: A Primer Sixth Edition,"[Lora D. Delwiche,Susan J. Slaughter]",54.1,364,4.6,283,7.5 x 0.82 x 9.25 inches,1.38 pounds,English
+Applied Statistics II: Multivariable and Multivariate Techniques,[Rebecca M. Warner],95.92,712,4.3,24,8 x 1.61 x 10 inches,2.45 pounds,English
+A Gentle Introduction to Stata,[Alan C. Acock],69.56,570,4.6,74,7.2 x 1.5 x 9.3 inches,2.65 pounds,English
+Clinical Biostatistics and Epidemiology Made Ridiculously Simple: An Incredibly Easy Way to Learn for Medical Nursing PA Students And Other Healthcare Professionals (MedMaster Medical Books),"[Ann Weaver Ph.D.,Stephen Goldberg M.D.]",21.8,104,4.5,307,5.75 x 0.25 x 8.75 inches,7.2 ounces,English
+CRC Standard Probability and Statistics Tables and Formulae,"[Daniel Zwillinger,Stephen Kokoska]",188.73,568,4.9,6,6.14 x 1.25 x 9.21 inches,2 pounds,English
+Fundamentals of Programming in SAS: A Case Studies Approach,"[James Blum,Jonathan Duggins]",109.95,404,4.4,13,8.25 x 0.95 x 11 inches,1.99 pounds,English
+Statistics Done Wrong: The Woefully Complete Guide,[Alex Reinhart],19.99,176,4.5,300,6.06 x 0.47 x 9.06 inches,11.2 ounces,English
+Learning SAS Example: A Programmers Guide Second Edition,[Ron Cody],81.53,536,4.6,80,7.5 x 1.21 x 9.25 inches,2.01 pounds,English
+Statistics II For Dummies,[Deborah J. Rumsey],16.66,448,4.4,18,7.32 x 1.02 x 9.21 inches,1.35 pounds,English
+Stats: Modeling the World,"[David Bock,Paul Velleman et al.]",197.32,864,4.1,24,8.6 x 1.4 x 11 inches,8.84 pounds,English
+First Course in Probability A,[Sheldon Ross],215.32,528,4.2,51,8.1 x 0.9 x 10.1 inches,2.33 pounds,English
+ISE STATISTICS FOR ENGINEERS AND SCIENTISTS (ISE HED IRWIN INDUSTRIAL ENGINEERING),[William Navidi Prof.],37.17,,4.2,35,9.09 x 1.26 x 7.36 inches,2.6 pounds,English
+Introduction to Probability (Cambridge Mathematical Textbooks),,70.99,442,4.3,67,7.2 x 1 x 10.1 inches,2.38 pounds,English
+Causal Inference: The Mixtape,[Scott Cunningham],31.99,584,4.6,274,5.5 x 1.17 x 8.5 inches,1.5 pounds,English
+Introduction to Mathematical Statistics and Its Applications An,"[Richard Larsen,Morris Marx]",159.99,752,4.4,60,8.1 x 1.2 x 10.1 inches,3.53 ounces,English
+APÂ® Statistics Crash Course Book + Online: Get a Higher Score in Less Time (Advanced Placement (AP) Crash Course),,14.16,272,4.8,20,6 x 0.9 x 8.9 inches,8.8 ounces,English
+Introduction to the Practice of Statistics,"[David S. Moore,George P. McCabe et al.]",240.34,784,3.6,20,1 x 1 x 1 inches,1 pounds,English
+Data Mining for Business Analytics: Concepts Techniques and Applications with XLMiner,"[Peter C. Bruce,Galit Shmueli et al.]",110.83,560,4,143,7.3 x 1.4 x 10.1 inches,2.43 pounds,English
+Study Guide to Accompany Salkind and Freyâ€²s Statistics for People Who (Think They) Hate Statistics,,30,160,4.3,34,8.5 x 0.37 x 11 inches,13.6 ounces,English
+Elementary Statistics: A Step Step Approach,[Allan Bluman],129,880,4.5,502,8.9 x 1.3 x 11.2 inches,4.11 pounds,English
+Practice Makes Perfect Statistics (Practice Makes Perfect (McGraw-Hill)),,14.06,160,4.6,92,8.5 x 0.4 x 10.9 inches,13.9 ounces,English
+Mathletics: How Gamblers Managers and Fans Use Mathematics in Sports Second Edition,"[Wayne L. Winston,Scott Nestler et al.]",18.99,608,4.8,24,6.25 x 1 x 9.25 inches,1.85 pounds,English
+Schaums Outline of Statistics Sixth Edition (Schaums Outlines),,25.48,600,4.2,58,8.2 x 1.3 x 10.9 inches,3 pounds,English
+Biostatistics for the Biological and Health Sciences,"[Marc Triola,Mario Triola et al.]",179.14,720,4.5,161,8.8 x 1.5 x 11.2 inches,3.56 pounds,English
+An Introduction to Formal Languages and Automata,[Peter Linz],62.85,450,4.4,341,7.5 x 1.2 x 9.3 inches,2.2 pounds,English
+Doing Quantitative Research in the Social Sciences: An Integrated Approach to Research Design Measurement and Statistics,[Thomas R. Black],55.54,768,4.4,27,7.5 x 1.73 x 9.75 inches,2.82 pounds,English
+Basic Business Statistics: Concepts and Applications (Whats New in Business Statistics),,100.99,840,4.4,121,8.6 x 1.3 x 11 inches,3.86 pounds,English
+Essentials of Statistics for the Behavioral Sciences (MindTap Course List),"[Frederick J Gravetter,Larry B. Wallnau et al.]",85.79,608,4.4,154,8 x 1 x 9.75 inches,2.7 pounds,English
+Statistics for Business and Economics Global Edition,"[Paul Newbold,William Carlson et al.]",74.96,800,4.6,27,8.46 x 1.18 x 11.02 inches,3.41 pounds,English
+Statistics Translated: A Step--Step Guide to Analyzing and Interpreting Data,[Steven R. Terrell],55,433,4.8,6,7 x 0.75 x 10 inches,1.83 pounds,English
+Statistics for the Behavioral Sciences,[Gregory J. Privitera],138.99,816,4.4,183,8.2 x 1.3 x 10.2 inches,3.2 pounds,English
+Modern Mathematical Statistics with Applications (Springer Texts in Statistics),"[Jay L. Devore,Kenneth N. Berk et al.]",121.11,988,4,1,7.8 x 1.6 x 10.2 inches,4.98 pounds,English
+Practical Statistics For Educators,[Ruth Ravid],50,310,4.6,65,7 x 0.7 x 10 inches,1.17 pounds,English
+Statistics Made Simple for School Leaders: A New Approach for Using Student Staff and Community Data 3rd Edition,"[Susan Rovezzi Carroll,David J. Carroll]",35,140,5,1,6.04 x 0.41 x 8.64 inches,7.7 ounces,English
+Using SPSS for Windows and Macintosh (7th Edition),"[Samuel B. Green,Neil J. Salkind]",279.95,448,4.4,189,8.4 x 0.9 x 10.8 inches,1.9 pounds,English
+An Adventure in Statistics: The Reality Enigma,[Andy Field],52,664,4.7,4,8 x 1 x 10.75 inches,2.05 pounds,English
+How to Work With Probability and Statistics Grades 6-8 (Math How To...),[Robert W. Smith],8.99,48,3.2,3,8.5 x 0.11 x 11 inches,5.6 ounces,English
+Essential Statistics for the Behavioral Sciences,[Gregory J. Privitera],100,640,4.4,140,8 x 1.54 x 10 inches,2.05 pounds,English
+Asymptotic Statistics (Cambridge Series in Statistical and Probabilistic Mathematics Series Number 3),,67.99,462,4.6,38,7 x 1.04 x 10 inches,1.76 pounds,English
+Loose Leaf for Business Statistics in Practice,"[Bruce Bowerman,Anne M. Drougas et al.]",103.48,928,4.5,2,8.6 x 1.6 x 11.1 inches,3.5 pounds,English
+Survey Methodology,"[Robert M. Groves,Floyd J. Fowler Jr. et al.]",52.99,486,4.3,91,7 x 1.1 x 10 inches,2 pounds,English
+Statistics for Healthcare Professionals: An Introduction,"[Ian Scott,Deborah Mazhindu]",35.2,256,4.4,43,6.6 x 0.7 x 9.4 inches,15.2 ounces,English
+Essentials of Social Statistics for a Diverse Society,"[Anna Y. Leon-Guerrero,Chava Frankfort-Nachmias et al.]",104.5,460,4.5,17,7.38 x 1.04 x 9.13 inches,1.5 pounds,English
+Natural Language Processing in Action: Understanding analyzing and generating text with Python,"[Hobson Lane,Hannes Hapke et al.]",40.49,544,4.3,112,7.38 x 1.2 x 9.25 inches,2.07 pounds,English
+Stats: Data and Models,"[David Bock,Paul Velleman et al.]",189.99,1024,4.3,33,8.7 x 1.6 x 11 inches,4.41 pounds,English
+The Statistical Sleuth: A Course in Methods of Data Analysis,"[Fred Ramsey,Daniel Schafer]",75.31,784,4,69,7.25 x 1.5 x 9.25 inches,2.95 pounds,English
+Intro Stats,"[Richard De Veaux,Paul Velleman et al.]",181.35,800,4.1,112,1.3 x 8.7 x 10.9 inches,3.84 pounds,English
+The Humongous Book of Statistics Problems (Humongous Books),"[W. Michael Kelley,Robert A. Donnelly]",17.69,560,4.4,207,8.5 x 1.13 x 10.88 inches,2.31 pounds,English
+The Practice of Statistics,"[Daren S. Starnes,Dan Yates et al.]",99.99,960,4.6,73,8.68 x 1.54 x 10.93 inches,4.83 pounds,English
+Introductory Statistics: Exploring the World Through Data,"[Robert Gould,Colleen Ryan]",197.32,800,4.4,75,8.85 x 1.3 x 11.2 inches,3.66 pounds,English
+Statistics for Nursing: A Practical Approach: A Practical Approach,[Elizabeth Heavey],75.24,302,4.4,389,7 x 0.9 x 8.9 inches,1.1 pounds,English
+Barrons AP Statistics 9th Edition,[Martin Sternstein Ph.D.],37.68,648,4.6,375,8.38 x 1.1 x 10.88 inches,2.2 pounds,English
+Making Sense of Medical Statistics,[Munier Hossain],25.99,200,4.5,48,6.14 x 0.47 x 9.21 inches,12.3 ounces,English
+Statistics and Data Visualization Using R: The Art and Practice of Data Analysis,[David S. Brown],114.6,616,3,2,7.9 x 1 x 9.9 inches,2.45 pounds,English
+Research Methods Statistics and Applications,"[Kathrynn A. Adams,Eva K. Lawrence]",95.08,672,4.5,124,7.38 x 1.52 x 9.13 inches,2.2 pounds,English
+Statistics: Informed Decisions Using Data (5th Edition)-Stand alone,[Michael Sullivan III],143.71,960,4.3,729,8.8 x 1.5 x 11 inches,4.2 pounds,English
+A Guide to R for Social and Behavioral Science Statistics,"[Brian Joseph Gillespie,Kathleen Charli Hibbert et al.]",45,304,4.6,14,7.38 x 0.69 x 9.13 inches,1.21 pounds,English
+Statistics for the Life Sciences,"[Myra Samuels,Jeffrey Witmer et al.]",191.99,648,4.3,135,8.35 x 1.3 x 10.35 inches,2.6 pounds,English
+Second Course in Statistics A: Regression Analysis,"[William Mendenhall,Terry Sincich]",170.66,848,4.6,16,1.3 x 8.2 x 10.1 inches,3.75 pounds,English
+Statistics: Unlocking the Power of Data,"[Patti Frazer Lock,Kari Lock Morgan et al.]",118.7,864,3.7,10,8.4 x 1.3 x 10.8 inches,3.35 pounds,English
+Essential Calculus Skills Practice Workbook with Full Solutions,[Chris McMullen],9.99,151,4.6,1358,8 x 0.35 x 10 inches,11 ounces,English
+Mark Twain - Statistics & Probability Grades 5 - 12,[Myrl Shireman],11.99,80,4.3,38,8.2 x 0.3 x 10.6 inches,5.6 ounces,English
+Probability & Statistics for Engineers & Scientists,"[Ronald Walpole,Raymond Myers et al.]",191.99,816,4.3,55,7.7 x 1.4 x 9.4 inches,2.65 pounds,English
+Statistics and Probability with Applications (High School),"[Daren S. Starnes,Josh Tabor et al.]",158.99,864,3,1,8.5 x 1 x 10.88 inches,3.98 pounds,English
+Understandable Statistics: Concepts and Methods,"[Charles Henry Brase,Corrinne Pellillo Brase]",82.63,839,4.5,344,9 x 1.25 x 11.25 inches,4.45 pounds,English
+Learn Calculus Quickly: The Complete Guide To Easily Master Calculus in 100 Solved Equations!,[Math Wizo],9.99,84,4.3,201,6 x 0.19 x 9 inches,4.5 ounces,English
+Statistics,"[James McClave,Terry Sincich]",253.32,896,4.3,101,1.3 x 8.7 x 10.9 inches,4.15 pounds,English
+Statistics Companion Workbook,[Adam H Littig],50,194,4.2,21,8.5 x 0.46 x 11 inches,1.25 pounds,English
+John E. Freunds Mathematical Statistics with Applications (Classic Version) (Pearson Modern Classics for Advanced Statistics Series),"[Irwin Miller,Marylees Miller]",106.65,560,4,69,8 x 1 x 9.9 inches,1.95 pounds,English
+Statistics for Business: Decision Making and Analysis,"[Robert Stine,Dean Foster]",223.98,830,4.5,45,8.6 x 1.5 x 11.1 inches,4.21 pounds,English
+Statistics in a Nutshell: A Desktop Quick Reference,,25.99,591,4.7,126,6 x 1.4 x 9 inches,1.75 pounds,English
+Introductory Statistics with Randomization and Simulation,"[David M Diez,Christopher D Barr et al.]",10,354,4.4,133,8 x 0.8 x 10 inches,1.7 pounds,English
+Essentials of Precalculus with Calculus Previews (Jones & Bartlett Learning Series in Mathematics),"[Dennis G. Zill,Jacqueline M. Dewar]",94.95,500,4.4,57,8.5 x 0.9 x 10.9 inches,2.55 pounds,English
+Real Stats: Using Econometrics for Political Science and Public Policy,[Michael A. Bailey],111.59,648,4.8,6,9.2 x 1.2 x 7.5 inches,2.2 pounds,English
+Nonlinear Contingency Analysis,"[T. V. Joe Layng,Paul Thomas Andronis et al.]",31.96,194,4.9,28,5.98 x 0.47 x 9.02 inches,13.4 ounces,English
+Ultimate AP Statistics Practice Book: 100 Essential Problems Completely Explained on YouTube,[Kendall Roberg],14.7,112,4.6,55,8.5 x 0.26 x 11 inches,9.8 ounces,English
+Schaums Outline of Probability and Statistics 4th Edition: 897 Solved Problems + 20 Videos (Schaums Outlines),"[John Schiller,R. Alu Srinivasan et al.]",22.8,432,4.4,161,8.3 x 0.82 x 10.8 inches,1.42 pounds,English
+Tutor in a Books Statistics: Volume 2,[Dr. James R. Ph.D.],36,182,,0,8.5 x 0.39 x 11.02 inches,15.4 ounces,English
+Problems And Solutions On Thermodynamics And Statistical Mechanics (second Edition) (Major American Universities Ph.d. Qualifying Questions And Solutions - Physics),"[Swee Cheng Lim,Choy Heng Lai et al.]",118,404,,0,6 x 1.1 x 9 inches,1.56 pounds,English
+SPSS Statistics For Dummies,"[Jesus Salcedo,Keith McCormick]",22.99,480,4.4,124,7.38 x 1.09 x 9.25 inches,1.41 pounds,English
+Statistics Made Simple for School Leaders: Data-Driven Decision Making (Scarecrow Education Book),[David J. Carroll],42,162,4.1,33,6.25 x 0.37 x 9.25 inches,8.5 ounces,English
+Elementary Statistics,[Mario Triola],171.47,792,4.4,1454,8.5 x 1.4 x 11 inches,3.53 ounces,English
+Probability and Statistical Inference,"[Robert Hogg,Elliot Tanis et al.]",181.32,560,4.9,20,8.4 x 1 x 10.2 inches,2.69 pounds,English
+Statistical Methods for the Social Sciences,[Alan Agresti],186.66,608,4.3,77,8.4 x 1.75 x 10.25 inches,2.55 pounds,English
+Causal Inference in Statistics - A Primer,"[Judea Pearl,Madelyn Glymour et al.]",33.24,160,4.5,194,6.6 x 0.7 x 9.4 inches,9.1 ounces,English
+5 Steps to a 5: AP Statistics 2022,"[Jared Derksen,DeAnna Krause McDonald]",18,384,4.7,18,11.26 x 1.06 x 10.98 inches,1.38 pounds,English
+R for Data Science: Import Tidy Transform Visualize and Model Data,"[Garrett Grolemund,Hadley Wickham]",44.99,518,4.7,1361,6 x 1.05 x 9 inches,1.64 pounds,English
+Even You Can Learn Statistics and Analytics: An Easy to Understand Guide (Pearson Business Analytics Series),"[David M Levine,David F Stephan]",33.94,392,5,2,7 x 0.89 x 9.13 inches,1.4 pounds,English
+Introduction to Probability and Statistics for Engineers and Scientists,[Sheldon M. Ross],112.47,704,3.3,4,9.57 x 1.1 x 7.83 inches,2.76 pounds,English
+5 Steps to a 5: AP Statistics 2023 Elite Student Edition,"[Jared Derksen,DeAnna Krause McDonald]",28,,,0,8.4 x 1.3 x 10.7 inches,2 pounds,English
+The Book of R: A First Course in Programming and Statistics,[Tilman M. Davies],28.33,832,4.6,327,7 x 1.44 x 9.25 inches,2.95 pounds,English
+Basic Business Statistics: A Casebook (Textbooks in Matheamtical Sciences),"[Dean P. Foster,Robert A. Stine et al.]",59.23,260,4.3,6,8.27 x 0.6 x 11.02 inches,2.93 pounds,English
+Elementary Statistics: Picturing the World,"[Ron Larson,Betsy Farber]",129.99,704,4.5,1025,8.5 x 1.1 x 11 inches,3.48 pounds,English
+Making Sense of Statistics: A Conceptual Overview,"[Fred Pyrczak,Deborah M. Oh]",47.76,252,4.6,145,8.5 x 0.57 x 11 inches,1.12 pounds,English
+Psychology Statistics For Dummies,"[Donncha Hanna,Martin Dempster]",15.55,464,4.5,787,7.4 x 1 x 9.3 inches,1.86 pounds,English
